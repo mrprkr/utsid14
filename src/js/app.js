@@ -10,7 +10,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	
 		//if the URL contains a direct link the site will load the preview view.
-		$scope.isPublic = false;
+		$scope.isPublic = true;
 		if (location.hash != ""){
 	     	$scope.isPublic = true;
 		   }
