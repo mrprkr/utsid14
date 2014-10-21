@@ -23,7 +23,4 @@ $ gulp
 
 #### Known Bugs
 
-Issue: When isotope loads layout before images, bricks ovelap
-Workaround: Re-load page, re-size page
-Solution: use imagesloaded to call isotope to relayout
-
+no known issues
