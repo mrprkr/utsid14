@@ -31,19 +31,19 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 		//push the card selected to thelightbox
 		$scope.cardSelected = null;
+		
 		$scope.setCardSelected = function(value){
 			$scope.cardSelected = value;
 			location.hash = $scope.bricks.indexOf(value);
 			if($scope.cardSelected.userPortfolio != null){
 				$scope.showingPortfolio = true;
 			}
-			//if they don't have a portfolio, but do have a linkedIn
-			else if($scope.cardSelected.linkedIn != null){
-				$scope.showingLinkedIn = true;
-			}
+			// //if they don't have a portfolio, but do have a linkedIn
+			// else if($scope.cardSelected.linkedIn != null){
+			// 	$scope.showingLinkedIn = true;
+			// }
 			else{
 				$scope.showingPortfolio = false;
-				$scope.showingLinkedIn = false;
 			}
 		}
 

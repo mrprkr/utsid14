@@ -18,7 +18,8 @@
     "angular-isotope": "~0.1.14",
     "angular-images-loaded": "~0.0.5",
     "angular-animate": "~1.2.26",
-    "angular-route": "~1.3.0"
+    "angular-route": "~1.3.0",
+    "retinajs": "~1.3.0"
   },
   "devDependencies": {
     "normalize-css": "~3.0.1"
