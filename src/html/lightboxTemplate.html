@@ -1,0 +1,23 @@
+<a href="#" ng-click="showLightbox()"></a>
+
+<div class="lightboxBackground">
+	<div id="close"><a href="#" ng-click="showLightbox()">back to all projects</a></div>
+
+	<h1 style="text-align:center; font-weight:400">{{cardSelected.projectTitle}}</h1>
+	<div id="lightboxHero" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}"></div>
+	<br/>
+	<div class="lightboxContact">
+		<div id="lightboxUserPhoto" ng-style="{'background-image':'url({{cardSelected.userPhoto}})'}"></div>
+		<div id="lightboxUserDetails">
+		<p>{{cardSelected.firstName}} {{cardSelected.lastName}}</p>
+		<p><a href="mailto:{{cardSelected.email}}">{{cardSelected.email}}</a></p>
+		<p ng-show="showingPortfolio"><a href="{{cardSelected.userPortfolio}}" target="_blank">See {{cardSelected.firstName}}'s Portfolio</a></p>
+		<p ng-show="showingLinkedIn"><a href="{{cardSelected.linkedIn}}" target="_blank">Connect with {{cardSelected.firstName}} on LinkedIn</a></p>
+		</div>
+	</div>
+
+	<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
+	<br/>
+	<div id="close"><a href="#" ng-click="showLightbox()">back to all projects</a></div>
+</div>
+

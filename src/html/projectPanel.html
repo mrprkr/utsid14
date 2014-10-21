@@ -1,0 +1,37 @@
+<div class="projectPanel">
+	<div class="projectPanelHeroContainer">
+		<div class="projectPanelHero" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}"></div>
+		</div>
+
+	<div class="projectContact content">
+		<div id="projectUserPhoto" ng-style="{'background-image':'url({{cardSelected.userPhoto}})'}"></div>
+		<div id="projectUserDetails">
+		<p><strong>{{cardSelected.firstName}} {{cardSelected.lastName}}</strong></p>
+		<p><a href="mailto:{{cardSelected.email}}">{{cardSelected.email}}</a></p>
+		<p ng-show="showingPortfolio"><a href="{{cardSelected.userPortfolio}}" target="_blank">See {{cardSelected.firstName}}'s Portfolio</a></p>
+		<p ng-show="showingLinkedIn"><a href="{{cardSelected.linkedIn}}" target="_blank">Connect on LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="projectContent content">
+		{{cardSelected.projectTitle}}
+		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
+		<br/>
+		<p>
+		You actually get to choose everything that goes in this section. Just submit the HTML markup with any extra images you'd like to include in "&lt;img&gt;" tags. The images will auto-size, so don't worry about giving them a height or width. You may also want include links, embed video, or any other function of HTML useful to explaining your project - just remember it has to work on a mobile, so no iFrames or flash please!
+		</p>
+		<br/>
+		<img ng-src="{{cardSelected.projectPhoto.url}}" alt="{{cardSelected.projectPhoto.alt}}">
+		<br/><br/>
+		<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+		<br/>
+		<a href="#" ng-click="showProject()">Back to all projects</a>
+	</div>
+
+</div>
