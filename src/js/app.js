@@ -1,5 +1,5 @@
 // initialise angular
-angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngRoute'])
+angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngRetina'])
 	.controller('id14Controller',  ng(function($scope, $http, $sce, $location){
 		//request the data from the JSON file, load it into $scope.bricks
 		$http.get('assets/data/data.json').success(function(data){

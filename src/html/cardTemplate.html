@@ -1,7 +1,9 @@
 <div class="card" ng-click="setCardSelected(brick); showProject()">
 
 	<div class="contact">
-		<div class="contactPhotoContainer" ng-style="{'background-image': 'url(' + brick.userPhoto + ')'};"></div>
+		<div class="contactPhotoContainer">
+			<img ng-src="{{brick.userPhoto}}" class="contactPhotoContainer">
+		</div>
 		<div class="name"> 
 			<a>{{brick.firstName}} {{brick.lastName}}</a> 
 			</div>
@@ -25,3 +27,4 @@
 			</div>
 		</div>
 </div>
+
