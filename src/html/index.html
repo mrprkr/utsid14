@@ -95,7 +95,8 @@
 		<!-- PROJECTS -->
 		<div isotope-container="isotope-container" class="brickContainer">
 			<div ng-repeat="brick in bricks"  isotope-item="isotope-item item">
-					<div ng-include="'cardTemplate.html' " ng-show="isPublished(brick)"></div>
+			<!-- <div ng-show="isPublished(brick)"> </div>-->
+					<div ng-include="'cardTemplate.html' "></div>
 			</div>
 		</div>
 
@@ -119,6 +120,7 @@
 	<div class="projectBackground" ng-click="showProject()"></div>
 	<div ng-include=" 'projectPanel.html' "></div>
 </div>
+
 
 <!--Google analytics -->
 <script>

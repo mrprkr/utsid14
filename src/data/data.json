@@ -146,20 +146,20 @@
   {
     "id": "8",
     "lastName": "Davis",
-    "firstName": "William",
+    "firstName": "Will",
     "userPhoto": "assets/images/userPhotos/davis_william.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://issuu.com/williamdavis5/docs/william_davis_-_portfolio_large",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "COMMFI",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder9.jpg",
+      "thumb": "assets/images/projectThumbs/davis_will.jpg",
+      "url": "assets/images/projectImages/davis_will.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Imagine you’re in pain, help is within reach but you can’t move or talk. COMMFI is a product that provides the non-verbal disability market the ability to communicate essential responses and needs to carers and family when the user is away from their primary communication device.",
+    "projectDescription": "<p>COMMFI is a secondary communication device, used when a primary AAC device is unavailable.</p> <br/><p>COMMFI is a wearable device that translates the movements of the user’s eye and translates them into a message. COMMFI’s ability to communicate long distance, in wet environments, and without a digital interface makes it a product with no competitors.</p><br/><p>COMMFI’s application interface lends itself to improving and developing communication abilities, as well as monitoring methods. The technology within COMMFI is not limited to the disability market - the data collection and communication methods can be adapted to a huge variety of methods that require hands free communication. COMMFI’s elegant and simple ritual of use provides a way of improving comfort without drastically changing a user’s way of life.</p><br/><p>COMMFI improves it’s user’s quality of life by providing Comfort in Communication</p><br/>",
+    "email": "davis.will.j@gmail.com",
+    "publish": true
   },
   {
     "id": "9",
@@ -184,18 +184,18 @@
     "lastName": "Duong",
     "firstName": "William",
     "userPhoto": "assets/images/userPhotos/duong_william.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/williamduong",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "YOLK",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder11.jpg",
+      "thumb": "assets/images/projectThumbs/duong_william.png",
+      "url": "assets/images/projectImages/duong_william.png",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "YOLK is a product developed to address the issue of parent-child hostility and conflict. It aims to encourage and facilitate communication between parent and adolescent (12-19 year olds) in a home environment. It will engage both parties with opportunity for self-reflection and development of emotional understanding and awareness.",
+    "projectDescription": "<p>For so long parents have struggled to understand their child&rsquo;s behaviour and the new relationship dynamics that adolescence brings.&nbsp; Similarly, teenage children only wish that their parents&nbsp; remain objective and not reprimand them too soon before they are given an opportunity to explain.</p><br/><p>Lack of empathy is the key problem of this disconnect and disharmony in the relationship. YOLK aims to restore this distressed family unit by encouraging open communication. It will minimise confrontation in initiating discussion following conflict and it will aid conversation between parent and child by quantifying positive, neutral and negative emotions in tactile and visual responses to develop empathy and self-awareness.</p><br/><p>Used in one on one interactions, YOLK will allow each individual to become aware their own emotions; it will identify overwhelming instances; and encourage self reflection and emotion control. In providing a platform for open discussion a supportive relationship will be formed and the adolescent&rsquo;s resilience and autonomy improved. YOLK guides its users to speak and think assertively helping the articulation of their emotions and the development of empathy skills.</p>",
+    "email": "william.duong@live.com.au",
+    "publish": true
   },
   {
     "id": "10",
@@ -670,18 +670,18 @@
     "lastName": "Sun",
     "firstName": "Alice",
     "userPhoto": "assets/images/userPhotos/sun_alice.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://eceela.squarespace.com",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Shellta",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder37.jpg",
+      "thumb": "assets/images/projectThumbs/sun_alice.png",
+      "url": "assets/images/projectImages/sun_alice.png",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Shellta is a bi-functional privacy apparatus that is designed for people who live in shared accommodation. Aimed at improving visual and audial privacy, the product can either be used as a partition wall or assembled as a privacy cocoon.",
+    "projectDescription": "Maintaining healthy levels of privacy is paramount to your emotional and physical wellbeing. Whilst it is understood and accepted that we have little control over our privacy in public spaces, our privacy at home is an expected necessity. In recent years, shared living has become a global phenomenon that has created a strong trend in the major cities of Australia, with at least 722,000 people residing in shared housing and student accommodation. Reduced levels of privacy is an inevitable part of living in a shared environment and there is a strong absence of products designed for this problem. Shellta is an affordable product that offers customisable privacy solutions for people living in shared environments. Shellta aims at replicating elements of privacy achieved in one’s own home, a comfort which is inevitably lost in shared living.",
+    "email": "eceela@gmail.com",
+    "publish": true
   },
   {
     "id": "37",

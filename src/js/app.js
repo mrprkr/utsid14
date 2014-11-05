@@ -103,7 +103,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=1200;
+		var delay=2000;
 		setTimeout(function(){
 		var $imgLoad = $('.brickContainer');
 		$imgLoad.imagesLoaded(function(){
@@ -148,6 +148,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	//runs the project setup once the code has loaded
 	$scope.loadProjects();
+
 }));
 
 

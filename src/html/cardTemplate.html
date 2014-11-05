@@ -8,11 +8,11 @@
 			<a>{{brick.firstName}} {{brick.lastName}}</a> 
 			</div>
 		</div>
-
+	<div ng-show="isPublished(brick)">
 	<div class="projectPhotoContainer images-loaded"> 
 		<img class="projectPhoto" ng-src="{{brick.projectPhoto.thumb}}">
 	</div>
-
+	</div>
 	<div class="project">
 		<div class="projectTitle">
 			<p>{{brick.projectTitle}}</p>
@@ -26,5 +26,6 @@
 			<a ng-bind="setProjectName(brick.firstName)"></a>
 			</div>
 		</div>
+	
 </div>
 
