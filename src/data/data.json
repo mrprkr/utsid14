@@ -15,7 +15,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "true"
+    "publish": false
   },
   {
     "id": "1",
@@ -33,7 +33,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "true"
+    "publish": false
   },
   {
     "id": "2",
@@ -51,7 +51,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "3",
@@ -69,7 +69,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "4",
@@ -78,16 +78,16 @@
     "userPhoto": "assets/images/userPhotos/biro_samuel.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Re-Do",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder5.jpg",
+      "thumb": "assets/images/projectThumbs/biro_samuel.jpg",
+      "url": "assets/images/projectImages/biro_samuel.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "projectSynopsis": "Re-Do is a system that provides consumers a new way to purchase and create bagwear. It allows consumers to choose set bagwear patterns and customise them by allocating different materials to create unique bags made completely from upcycled and sustainable materials.",
+    "projectDescription": "<p><em>Re-Do</em> is an online system that presents a new way of purchasing bagwear to consumers. With the rise of both sustainably-minded consumers and the want for personalised products, <em>Re-Do</em> allows consumers to log on to a website where they will have the ability to choose set bagwear patterns and then allocate materials to each section, in turn creating one-of-a-kind customisable bags. The materials that the system provides to consumers are strictly off-cuts and unused materials - leathers, plastics, fabrics -&nbsp; from companies where the materials, through the concept of upcycling are given new value and new life in the form of a personalised bag.</p><p><br/><a href='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' /></a></p><p>The Re-Do system provides an intuitive interface that guides the user through designing their own bags. The interface combines clean, but striking graphic design and a free-flowing system path that allows the use of the system to be incredibly easy to navigate and understand while presenting an interactive experience with the user. Some of the pages include a &quot;Choose a Pattern&quot; page, a &quot;Customise&quot; page and a &quot;Materials&quot; page with each page taking the user through a different engaging experience.</p><br/><p><a href='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg'/></a></p>",
+    "email": "sam_bic@hotmail.com",
+    "publish": true
   },
   {
     "id": "5",
@@ -105,7 +105,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "6",
@@ -123,7 +123,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "7",
@@ -141,7 +141,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "8",
@@ -159,12 +159,12 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "9",
     "lastName": "Del Rosario",
-    "firstName": "Christina",
+    "firstName": "Cristina",
     "userPhoto": "assets/images/userPhotos/delrosario_christina.jpg",
     "userPortfolio": null,
     "linkedIn": null,
@@ -177,7 +177,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "9",
@@ -195,7 +195,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "10",
@@ -203,17 +203,17 @@
     "firstName": "Lorraine",
     "userPhoto": "assets/images/userPhotos/fernandes_lorraine.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "http://au.linkedin.com/pub/lorraine-fernandes/5b/53a/8b6/",
+    "projectTitle": "teamus",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder12.jpg",
+      "thumb": "assets/images/projectThumbs/fernandes_lorraine.jpg",
+      "url": "assets/images/projectImages/fernandes_lorraine.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "projectSynopsis": "teamus is a powerful tool that encourages and fosters virtual teams through a specialised tablet and service design. teamus has the ability to form social connections, and creates a seamless platform for open communication, and to share information which is key to building trust within teams and achieving effective results.",
+    "projectDescription": "<p>Currently, over 87% of businesses globally work within virtual teams. Of this, 40% of employees feel their teams are underperforming. Whilst there are numerous potentials of working within geographically and culturally diverse teams; economic growth, connectivity and new collaborative ideas and practices virtual teams experiences different work challenges. Often teams feel isolation, experience time zone confusions, communication barriers, missed deadlines and lose the richness of &lsquo;water cooler&rsquo; conversations.</p><br/><p><em>teamus </em>is designed with the aim to increase the communication and engagement levels within remote and virtual teams. It is suitable for all users ranging from multinational companies, to small companies who are dispersed locally. Through the interface, <em>teamus </em>enables users to engage with their fellow members, create positive relationships and establish a platform for rich, informal conversations. This is assisted by the <em>teamus </em>tablet, which creates a physical presence for the members. By having a physical product it enables the user to feel part of the team, and decreases the chance of team members being &lsquo;forgotten&rsquo;. The visually appealing design, encourages users to glance at the screen enhancing the usability of the design. <em>teamus </em>presents a product that has the ability to cleverly assist teams in a noninvasive manner. <em>teamus </em>fosters trust, communication, engagement, social connectivity and enhances the work environment for all users.</p>",
+    "email": "lorraine.t.fernandes@gmail.com",
+    "publish": true
   },
   {
     "id": "11",
@@ -231,7 +231,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "12",
@@ -249,7 +249,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "13",
@@ -267,7 +267,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "14",
@@ -285,7 +285,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "15",
@@ -303,7 +303,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "16",
@@ -321,25 +321,25 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "17",
     "lastName": "Kaw",
     "firstName": "Nathan",
     "userPhoto": "assets/images/userPhotos/kaw_nathan.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/natkaw",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Flip",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder19.jpg",
+      "thumb": "assets/images/projectThumbs/kaw_nathan.jpg",
+      "url": "assets/images/projectImages/kaw_nathan.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "projectSynopsis": "The design solution is that of a front yard chair and table system that resides behind the fence of the property. The product is an appropriation of outdoor, public and cafe furniture pieces for the setting of the front porch.",
+    "projectDescription": "<p>The product is a modular furniture system designed to be used in combination. The product is a wall mounted hinging mechanism that attaches to the outward facing wall of the house with anchors. The size and make of the product makes it suitable for space saving and accessibility. The table uses the opposite side of the of the flat seat piece.</p><br/><p>The concept proposed by this report attempts to bring home leisure to the front section of the house. By doing this our behaviour becomes observed by the public. The intended result of this would be to create a setting for values and attitudes to be reconsidered amongst the community. Allowing for more natural interactions with others, dwellers can be engaged by the community.</p>",
+    "email": "natvskaw@gmail.com",
+    "publish": true
   },
   {
     "id": "18",
@@ -357,7 +357,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "19",
@@ -375,7 +375,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "20",
@@ -393,25 +393,25 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "21",
     "lastName": "Li",
     "firstName": "Jonathan",
     "userPhoto": "assets/images/userPhotos/li_jonathan.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://behance.net/jonathanli",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "BUDDY",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder23.jpg",
+      "thumb": "assets/images/projectThumbs/li_jonathan.jpg",
+      "url": "assets/images/projectImages/li_jonathan.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "projectSynopsis": "BUDDY is an interactive therapy toy that facilitates social interactions by educating and training joint attentions and emotional recognition. It aims to create opportunities for parents and educators to improve the children’s communication skills, while also building better social relationships.",
+    "projectDescription": "<p>Autism spectrum disorder prevents young children from developing fundamental social communication skills that are otherwise simple in those with typical developments. Joint attention and emotion recognition are some of the attributes these children lack in their lives, which cause social impairments and lack of focus during conversations.</p><br/><p>BUDDY is an interactive therapy toy that facilitates social interactions by educating and training joint attentions and emotional recognition. It aims to create opportunities for parents and educators to improve the children’s communication skills, while also building better social relationships.</p>",
+    "email": "jonathan.li.design@gmail.com",
+    "publish": true
   },
   {
     "id": "22",
@@ -429,7 +429,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "23",
@@ -447,7 +447,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "24",
@@ -465,7 +465,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "25",
@@ -483,7 +483,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "26",
@@ -501,7 +501,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "27",
@@ -519,7 +519,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "28",
@@ -537,7 +537,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "29",
@@ -555,7 +555,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "30",
@@ -573,7 +573,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "parker_michael@me.com",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "31",
@@ -591,7 +591,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "32",
@@ -609,7 +609,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "33",
@@ -627,7 +627,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "34",
@@ -645,7 +645,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "35",
@@ -654,16 +654,16 @@
     "userPhoto": "assets/images/userPhotos/sum_katrina.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Tucker Shoe Storage System",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder36.jpg",
+      "thumb": "assets/images/projectThumbs/sum_katrina.png",
+      "url": "assets/images/projectImages/sum_katrina.png",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "projectSynopsis": "Tucker is a space saving shoe storage solution that aims to declutter a small space while still being able to see where everything is.",
+    "projectDescription": "<p>Tucker is a vertical shoe rack that allows the user to adapt it to their needs, whether they want to hide their shoes, display them or just simply get them out of the way.</p><br/><p>This shoe storage system aims to encourage people to practice good hygienic behaviours and improve current lifestyle habits by create an aesthetic clutter-free way to organise their shoe collection.</p><br/><p>No fastenings are required so no screws or finding a screw driver will never be an issue. Therefore, Tucker can be easily assembled and disassembled with just the help of a rubber mallet that will be supplied.</p><br/><p>As a modular unit, endless configurations are possible. Tucker can be customised 360 degrees depending on where it is placed and what kind of shoes are being stored.</p><br/><p>Tucker is the perfect foundation piece and by adding different attachments, it can be transformed into a multipurpose entrance way organiser.</p>",
+    "email": "k.sum@icloud.com",
+    "publish": true
   },
   {
     "id": "36",
@@ -681,7 +681,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "37",
@@ -699,7 +699,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "38",
@@ -717,7 +717,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "39",
@@ -735,7 +735,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "40",
@@ -753,7 +753,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "41",
@@ -771,7 +771,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   },
   {
     "id": "42",
@@ -789,7 +789,7 @@
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
     "email": "placeholder@student.uts.edu.au",
-    "publish": "false"
+    "publish": false
   }
 ]
 

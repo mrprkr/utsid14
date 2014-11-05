@@ -1,10 +1,11 @@
 <div class="projectPanel">
+	<div id="backButton">ID14 / <a href="#" ng-click="showProject()"> All Projects</a> / <a href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a></div>
 	<div class="projectPanelHeroContainer">
 		<div class="projectPanelHero" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}">
-			<!-- <img ng-src="{{cardSelected.projectPhoto.url}}" class="projectPanelHeroContainer"> -->
+			<!-- <img ng-src="{{cardSelected.projectPhoto.url}}" class="projectPanelHeroContainer">  -->
 		</div>
 	</div>
-
+	
 	<div class="projectContact content">
 		<div id="projectUserPhoto">
 			<img id="projectUserPhoto" ng-src="{{cardSelected.userPhoto}}" width="100" height="100">
@@ -20,21 +21,8 @@
 		{{cardSelected.projectTitle}}
 		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
 		<br/>
-		<p>
-		You actually get to choose everything that goes in this section. Just submit the HTML markup with any extra images you'd like to include in "&lt;img&gt;" tags. The images will auto-size, so don't worry about giving them a height or width. You may also want include links, embed video, or any other function of HTML useful to explaining your project - just remember it has to work on a mobile, so no iFrames or flash please!
-		</p>
-		<br/>
-		<img ng-src="{{cardSelected.projectPhoto.url}}" alt="{{cardSelected.projectPhoto.alt}}">
+		<a ng-href="{{cardSelected.projectPhoto.url}}" target="_blank"><img ng-src="{{cardSelected.projectPhoto.url}}" alt="{{cardSelected.projectPhoto.alt}}"></a>
 		<br/><br/>
-		<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
-		<br/>
 		<a href="#" ng-click="showProject()">Back to all projects</a>
 	</div>
 

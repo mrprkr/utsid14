@@ -42,7 +42,7 @@
 
 <body ng-app="id14App" ng-controller="id14Controller">
 
-<nav class="navBar hiddenNav">
+<!-- <nav class="navBar hiddenNav">
 <div ng-hide="showingProject" class="animate-fade">
 	<div class="brickContainer">
 	<div id="navContent" class="navContent"><strong>UTS</strong> | ID14 </div>
@@ -53,7 +53,7 @@
 	<div class="actionContainer">
 		<div class="back"> <a href="#" ng-click="showProject()">Back to all projects</a></div>
 	</div>
-</nav>
+</nav> -->
 
 
 
@@ -94,8 +94,8 @@
 
 		<!-- PROJECTS -->
 		<div isotope-container="isotope-container" class="brickContainer">
-			<div ng-repeat="brick in bricks | filter: search" isotope-item="isotope-item item">
-				<div ng-include="'cardTemplate.html' "></div>
+			<div ng-repeat="brick in bricks"  isotope-item="isotope-item item">
+					<div ng-include="'cardTemplate.html' " ng-show="isPublished(brick)"></div>
 			</div>
 		</div>
 

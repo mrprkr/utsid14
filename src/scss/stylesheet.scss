@@ -57,6 +57,13 @@ nav a{
 	cursor: pointer;
 }
 
+#backButton{
+	width: 100%;
+	background-color: rgba(255,255,255,0.9);
+	padding: 10px;
+	font-size: 0.8em;
+
+}
 
 .navContent {
 	display: inline-block;
@@ -440,7 +447,7 @@ footer p {
 }
 
 .projectPanelHeroContainer {
-	height: 280px;
+	height: 260px;
 	width: 100%;
 	max-width: 1800px;
 	display: block;
@@ -452,11 +459,14 @@ footer p {
 }
 
 .projectPanelHero {
-	height: 260px;
-	width: 100%;
+	height: 280px;
+	width: 101%;
 	display: block;
+	margin-left: -2px;
 	background-position: center;
 	background-size: cover;
+	-webkit-filter: blur(2px);
+	filter: blur(2px);
 }
 
 .back {
@@ -590,6 +600,8 @@ footer p {
 
 	.projectPanelHero {
 		max-height: 200px;
+		-webkit-filter: blur(0px);
+		filter: blur(0px);
 	}
 
 	.projectPanelHeroContainer {

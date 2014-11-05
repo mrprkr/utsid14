@@ -35,16 +35,24 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		$scope.setCardSelected = function(value){
 			$scope.cardSelected = value;
 			location.hash = $scope.bricks.indexOf(value);
+			
 			if($scope.cardSelected.userPortfolio != null){
 				$scope.showingPortfolio = true;
 			}
-			// //if they don't have a portfolio, but do have a linkedIn
-			// else if($scope.cardSelected.linkedIn != null){
-			// 	$scope.showingLinkedIn = true;
-			// }
 			else{
 				$scope.showingPortfolio = false;
 			}
+			// //if they don't have a portfolio, but do have a linkedIn
+			if($scope.cardSelected.linkedIn != null){
+				$scope.showingLinkedIn = true;
+			 }
+			else{
+				$scope.showingLinkedIn = false;
+			}
+			// else{
+			// 	$scope.showingPortfolio = false;
+			// 	$scope.showingLinkedIn = false;
+			// }
 		}
 
 		//Event information tray state
@@ -88,6 +96,10 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			}
 		}
 
+		$scope.isPublished = function(card){
+			return card.publish;
+		}
+
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
@@ -123,16 +135,16 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 
 	//Display the nav bar when scrolling
-	var projectsBottom = $('#sort-options').offset().top + $('#sort-options').height();
-	$(window).on('scroll',function(){
-    // we round here to reduce a little workload
-    stop = Math.round($(window).scrollTop());
-    if (stop > projectsBottom) {
-        $('nav').removeClass('hiddenNav');
-    } else {
-        $('nav').addClass('hiddenNav');
-    }
-	});
+	// var projectsBottom = $('#sort-options').offset().top + $('#sort-options').height();
+	// $(window).on('scroll',function(){
+ //    // we round here to reduce a little workload
+ //    stop = Math.round($(window).scrollTop());
+ //    if (stop > projectsBottom) {
+ //        $('nav').removeClass('hiddenNav');
+ //    } else {
+ //        $('nav').addClass('hiddenNav');
+ //    }
+	// });
 
 	//runs the project setup once the code has loaded
 	$scope.loadProjects();
