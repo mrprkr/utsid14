@@ -4,72 +4,72 @@
     "lastName": "Abdo",
     "firstName": "Mariana",
     "userPhoto": "assets/images/userPhotos/abdo_mariana.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/marianaabdo",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Valina Light",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder1.jpg",
+      "thumb": "assets/images/projectThumbs/abdo_mariana.jpg",
+      "url": "assets/images/projectImages/abdo_mariana.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "The Valina Light provides a superior solution to illuminating the workspace environment. The Valina light has the unique ability to mimic the changes in light properties in accordance to what happens in nature.",
+    "projectDescription": "<p>This Valina lamp is the ideal product for those that experience a disruption in their circadian rhythm otherwise known as their 24-hour body clock. A major cause of having a disrupted circadian rhythm is from spending long periods of time away from natural lighting such as sunlight. The Valina lamp is a task light that restores and maintains balance to the body's circadian rhythm by using cutting edge colour temperature adjusting LED technology.</p><br/><p> The task light has other features including its ability to be configured into an ambient light unlike other products on the market. Unlike the majority of task lights the Valina uses the latest LED technology to improve illumination and the working environment. It provides the user with not only enhanced visual quality but also a healthier and balanced circadian rhythm which is essential to healthy and productive living.</p>",
+    "email": "marianaabdo@live.com.au",
+    "publish": true
   },
   {
     "id": "1",
     "lastName": "Ahn",
-    "firstName": "Seo Hyo",
+    "firstName": "Ashley",
     "userPhoto": "assets/images/userPhotos/ahn_seo-hyo.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Bubba Lid - Adaptable bottle lid for baby",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder2.jpg",
+      "thumb": "assets/images/projectThumbs/ahn_seo-hyo.jpg",
+      "url": "assets/images/projectImages/ahn_seo-hyo.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Bubba Lid is a bottle Lid for babies designed to be compatible with any plastic bottles in the market.It was created in order to lessen the costs on feeding products for parents and increase the portability and efficiency.",
+    "projectDescription": "Bubba Lid is a bottle Lid for babies designed to be compatible with any plastic bottles in the market. It was created in order to lessen the costs on feeding products for parents and increase the portability and efficiency.",
+    "email": "seohyo35@hotmail.com",
+    "publish": true
   },
   {
     "id": "2",
     "lastName": "Bailey",
-    "firstName": "Mitchell",
+    "firstName": "Mitch",
     "userPhoto": "assets/images/userPhotos/bailey_mitchell.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.mitchbaileydesign.com",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "ExpoCentric Exhibition Flooring System",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder3.jpg",
+      "thumb": "assets/images/projectThumbs/bailey_mitch.jpg",
+      "url": "assets/images/projectImages/bailey_mitch.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "A fast and easy to install exhibition flooring system that integrates new material and digital technologies, transcending the system beyond a simple floor and elevating it to a data driven marketing tool that contributes to and validates the marketing exercise undertaken by exhibitors at trade shows and exhibitions.",
+    "projectDescription": "<p>This project was developed in collaboration with ExpoCentric Pty Ltd, a leader of exhibition design and stand construction in the Australian exhibition and trade show industry.</p><br/><p>The floor system was designed specifically for use in the exhibition industry and to be used in the construction of trade show stands. It seeks to reduce on going costs of labour, material use and waste by being fast to install and remove, while increasing the longevity of components through applying new materials and providing a complete flooring solution tailored to the exhibition industries needs. It does this through a modular structure that integrates several features such as levelling, cable and plumbing managements, and several others.</p><br/><p>Beyond this the floor has been designed with additional technologies that elevate it beyond a simple floor and turn it into a marketing tool. Through the applied technology, the floor system is able to track and log the movements of visitors to the stand, their flow around the space and which product displays they spend the most time at. This data can be logged and fed live to sales reps on stand so that they can adjust their sales pitch on the fly and better target what potential customers are interested in on the day, and review logged data at a later date to better understand and get greater value from exhibiting at trade shows.</p>",
+    "email": "mitchdbailey@gmail.com",
+    "publish": true
   },
   {
     "id": "3",
     "lastName": "Berk",
     "firstName": "Zeynep",
     "userPhoto": "assets/images/userPhotos/berk_zeynep.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/zeynepberk",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Swash",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder4.jpg",
+      "thumb": "assets/images/projectThumbs/berk_zeynep.jpg",
+      "url": "assets/images/projectImages/berk_zeynep.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Swash is a Do-It-Yourself hand sanitiser dispenser kit designed for Stage 1 primary school children to learn the benefits of hand hygiene. The concept aims to foster positive behaviour change by encouraging children to participate in the making process. It is an educational tool to be integrated into class curriculum.",
+    "projectDescription": "<p>Current status of cleanliness and health benefits in developed countries are taken for granted. Obtaining healthy habits and maintaining adequate hygiene are significantly important, especially for younger individuals in the society. Obtaining adequate hand hygiene is the simplest and easiest way to reduce the spread of common diseases such as diarrhoea and respiratory infections. Children are most vulnerable to these diseases especially in school settings where there is a constant share of space and interaction between the individuals. This results in high levels of absenteeism during semesters, creating a financial burden on school administration.</p><br/><p>Time constraints, lack of cleanliness and shortage of supplies are the main three obstacles as to why children do no practice adequate hand hygiene. The current hand hygiene equipment and facilities are not appealing to children. </p><br/><p>The aim of this project is to provide a design solution for children to create behavioural change and introduce the benefits of hand hygiene. The Do-It-Yourself design concept aims to foster positive behaviour change by encouraging children actively participate in the process. </p>",
+    "email": "zeynepbrk@gmail.com",
+    "publish": true
   },
   {
     "id": "4",
@@ -94,18 +94,18 @@
     "lastName": "Chong",
     "firstName": "Justin",
     "userPhoto": "assets/images/userPhotos/chong_justin.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/JustinChong",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Sonata",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder6.jpg",
+      "thumb": "assets/images/projectThumbs/chong_justin.jpg",
+      "url": "assets/images/projectImages/chong_justin.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Sonata is a stress-relief device for individuals with late-stage dementia. Sonata works autonomously, periodically testing blood pressure of the user. If readings exceed a certain threshold set by the caregiver, auditory sensory stimulation will be activated to relax the user, decrease blood pressure and thus, the chances of a stroke.",
+    "projectDescription": "<p>Living with dementia related diseases such as Alzheimer’s disease has a profound effect on quality of life, not only for the individual with dementia, but also their caregiver, who goes through the stresses of caring for that individual. Towards the later stages of dementia, individuals can lose much of their cognitive and physical functioning and can become more susceptible to stoke.</p></br><p>Sonata functions as a stress relief device for individuals with late-stage dementia. The device operates by utilising musical sensory stimulation to decrease stress and blood pressure and thus, resulting in a decline of the chances of a stroke.</p></br><p>Sonata consists of two separate devices, the blood pressure module and the sound module. The two devices work together to improve the quality of life for both the individual with dementia and their caregivers.</p></br><p>Sonata works by periodically testing the blood pressure of an individual with dementia through the blood pressure module. Both the position of the cuff (either the ankle or arm) and the time between the periods tested will be unique and depend on each individual.</p></br><p>As the blood pressure is tested, a reading will be made. In accordance to the parameters set for the person with dementia, a threshold will be placed that if exceeded, will cause a wireless signal to be sent to the sound module.</p></br><p>The sound module clips onto the collar of the individual with dementia, in which a small speaker will be directed towards their ear. If it picks up a signal from the blood pressure module, it will play a series of songs that are either specified by the caregiver (e.g. reminiscent music or relaxing sounds), or generalised calming music including classical music, which will act as a stress relief for the individual with dementia. Additionally, the device will help improve the quality of life for caregivers by providing them a sense of comfort knowing that the individual they’re caring for has an increased quality of life by both providing musical stimulation for the individual dementia and lessening their chance of stroke by hypertension.</p><br/><img src='http://i.imgur.com/UpAwnvtl.png'/><br/><img src='http://i.imgur.com/nAq4hiSl.jpg'/>",
+    "email": "jrc693@hotmail.com",
+    "publish": true
   },
   {
     "id": "6",
@@ -132,16 +132,16 @@
     "userPhoto": "assets/images/userPhotos/davies_sam.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Visible Energy",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder8.jpg",
+      "thumb": "assets/images/projectThumbs/davies_sam.jpg",
+      "url": "assets/images/projectImages/davies_sam.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "A sculptural energy monitor that displays live energy use divided into tenancies as well as historical use. It is designed for commercial buildings with multiple tenants. The high impact visuals strongly display your use and engage occupants to think and reflect about the choices they make with their aplliances.",
+    "projectDescription": "<p> In an era when green buildings are on the rise, buildings are being modified to reduce their environmental impact and improve sustainability. One of the areas with the most improvement is electricity use. Reducing energy consumption from a users perspective relies on good feedback, but one of the biggest problems is energy is essentially invisible! </p><br /><p>The system proposed attempts to influence user’s behaviour to reduce a building’s environmental impact, reduce costs and improve efficiency. An integrated system into buildings with shared tenancy. The system measures energy use for individual tenants and displays it in a dynamic sculpture situated in a communal space. It gives occupants strong feedback about choices they make. Current products on the market fail to engage with the user relying on dominantly numeric feedback. This product lets you really see how much you are using.</p><br /><p>This sculpture was design for a creative studio in chippendale but there is potential for a variety of artistic interpretations of how energy could be displayed based on the circuit and code and mechanism I designed.</p><br />",
+    "email": "davies1samuel@gmail.com",
+    "publish": true
   },
   {
     "id": "8",
@@ -167,17 +167,17 @@
     "firstName": "Cristina",
     "userPhoto": "assets/images/userPhotos/delrosario_christina.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "https://www.linkedin.com/profile/view?id=246024271&trk=nav_responsive_tab_profile",
+    "projectTitle": "Willed Charity Donation",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder10.jpg",
+      "thumb": "assets/images/projectThumbs/delrosario_christina.jpg",
+      "url": "assets/images/projectImages/delrosario_christina.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "With a range of products, Willed is a donation service that helps the stakeholders involves throughout the journey of clothing donation. A donation website, donation bags and a donation closet will encourage people to donate well in to overcome the current problems that surround clothing bins.",
+    "projectDescription": "<p>Australian charities help over tens of thousands of people in the community. They highly rely on the need of donations from all those who are willing. Currently we could donate items via the local clothing bin. Major problematic issues regarding these bins such as illegal dumping, theft, social problems, litter have lead to charities choosing to remove the bins entirely</p><br/><p>However many charities work differently and still require that need for a clothing bin or a system of such. This is because there is the inevitable need to provide storage to deal with the immense amount of donations that does come in.</p><br/><p>In looking at a current clothing donation system, there are three main points that the Willed donation scheme provides assistance in.</p><br/><ol><li>The pre donation stage: at home, going through items to donate.</li><li>The donation stage: at a donation point to pass on donations</li><li>Post donation: the collection, sorting and distribution of donations.</li></ol><br/><p>This holistic system is broken up with the development of three products: a website, a donation bag, and a donation closet, will provide guidance for safe practices for all stakeholders.</p><br/><p><strong>The donationWebsite</strong> is aimed to raise awareness of correct donation attitudes and methods. This will help donators and charities during the pre donation phase.</p><br/><p><strong>The donationBag</strong> is aimed to help people make that first step to donate. This will help donators and charities during the pre donation, the donating stage and after the donation stages. Bags have two purposes: as a shopping bag and then as a donation bag to provide access to the donation closet.</p><br/><p><strong>The donationCloset</strong> is aimed to change people perception on the act of clothing donation. This will help donators and charities during the donation phase.&nbsp;The closet is located in high trafficking secured areas within the retail space. Donators scan the donation bags to provide access to let go of their donations.&nbsp;This closet contains information such as the bin level, location, locked or opened, that can all be access through an interactive screen and LED lights guides the donator. This information can also be accessed on the website.The collection of items from this donation closet is done more efficiently, where a large removable bag can be pulled out and removed.</p><br/><p>Willed Charity Donation is a systematic approach to the problems that surround current donation habits. Looking closely at a redesign of the clothing bin, it aims to change people current perception of clothing donation to charity, to be more inviting, and encouraging for communities. This shift in behaviour is pushed from the service outlook of the pre-donation stage, the donation act and the post donation events.&nbsp;</p>",
+    "email": "crisdrosario@gmail.com",
+    "publish": true
   },
   {
     "id": "9",
@@ -188,8 +188,8 @@
     "linkedIn": null,
     "projectTitle": "YOLK",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/duong_william.png",
-      "url": "assets/images/projectImages/duong_william.png",
+      "thumb": "assets/images/projectThumbs/duong_william.jpg",
+      "url": "assets/images/projectImages/duong_william.jpg",
       "alt": "Hero Image"
     },
     "projectSynopsis": "YOLK is a product developed to address the issue of parent-child hostility and conflict. It aims to encourage and facilitate communication between parent and adolescent (12-19 year olds) in a home environment. It will engage both parties with opportunity for self-reflection and development of emotional understanding and awareness.",
@@ -242,32 +242,32 @@
     "linkedIn": null,
     "projectTitle": "Placeholder Title and Image",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder14.jpg",
+      "thumb": "assets/images/projectThumbs/green_zoe.jpg",
+      "url": "assets/images/projectImages/green_zoe.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Homelessness is a wicked problem and something that is unable to be fixed with a tangible design solution. A service based intervention that looked at the breadth and the depth of the issue was needed to make a positive change in a lucrative field.",
+    "projectDescription": "<p>The homeless support sector in Australia is undergoing drastic changes. The Australian Government made a National promise in 2008 to halve homelessness by 2020. In the mean time, $44 million has been cut from this budget, leaving current homeless shelters and resources without a secure future.</p><br/><iframe src='//player.vimeo.com/video/111066979' width='500' height='281' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/><p>Homelessness is a wicked problem and something that is unable to be fixed with a tangible design solution. A service based intervention that looked at the breadth and the depth of the issue was needed to make a positive change in a lucrative field.</p><br/><p><em>The Line</em> is a service design intervention for the homeless support sector. It is a resource for men over eighteen years old, who are experiencing some degree of homelessness. It is based upon the need to encourage and support men to exit homelessness. <em>The Line</em> helps them take the step from basic needs (needs that are adequate for human survival), to holistic needs (needs that support and nurture the metaphysical nature of humans). The transition from basic to holistic needs is called &lsquo;<em>stepping over the line</em>&rsquo;.</p><br/><p><a href='http://imgur.com/xy2oQbc'><img src='http://i.imgur.com/xy2oQbc.png'/></a></p><br/><p>The journey throughout <em>The Line </em>is complimented by an innovative tool, The Qualitative Assessment of Needs (QAN). The QAN is a conversation not a consultation. It helps the Mentor (staff) to identify, basically, what type of homelessness the client has been experiencing, and comprehensively, who that person is and what they want and need. It helps to identify common characteristics the men may present when they want to make a lifestyle change. The QAN is a qualitative, not a quantitative assessment made up of four phases; milestones, stages of engagement, assessment of needs and designed dialogue. The iterative nature of these phases allows for a re-examination of needs, desires and capabilities at various milestones through the men&rsquo;s journey within <em>The Line</em>.</p><br/><p><a href='http://imgur.com/heTsoK4'><img src='http://i.imgur.com/heTsoK4.png'/></a></p><br/><p><em>The Line</em> is an innovative, service design intervention that is to be the future state of the homeless support sector.</p>",
+    "email": "green.zoe@gmail.com",
+    "publish": true
   },
   {
     "id": "13",
     "lastName": "Gregorace",
     "firstName": "Andrew",
     "userPhoto": "assets/images/userPhotos/gregorace_andrew.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.behance.net/adesignau",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Embrace",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder15.jpg",
+      "thumb": "assets/images/projectThumbs/gregorace_andrew.jpg",
+      "url": "assets/images/projectImages/gregorace_andrew.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Embrace is a lower back support that is tailored by a physiotherapist to suite the individual needs of a patients spine. This is a revolutionary approach to the treatment and prevention of Lower Back Pain in sedentary office professionals.",
+    "projectDescription": "<p>Embrace Back Support is designed to provide an individualised and customisable approach to the treatment of Lower Back Pain in Sedentary Office professionals.&nbsp;</p><br/><p>The product is to be used tailored by qualified professionals such as physiotherapists using 3D scanning and printing technologies.&nbsp;</p><br /><br/><p>Embrace uses interactive technology to engage the user in their own treatment of lower back pain. Additionally, the product is designed with consideration to current research which encourages a sit-stand workplace environment.</p>",
+    "email": "and.gregorace@gmail.com",
+    "publish": true
   },
   {
     "id": "14",
@@ -294,16 +294,16 @@
     "userPhoto": "assets/images/userPhotos/hunt_olivia.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "DIAS Intelligent Faucet",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder30.jpg",
+      "thumb": "assets/images/projectThumbs/hunt_olivia.jpg",
+      "url": "assets/images/projectImages/hunt_olivia.jpg",
       "alt": "Hero Image"
     },
     "projectSynopsis": "This is a short description of the product or service",
     "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "email": "olivia.hunt@me.com",
+    "publish": true
   },
   {
     "id": "16",
@@ -312,16 +312,16 @@
     "userPhoto": "assets/images/userPhotos/irving_luke.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Fireground Communications Kit",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder18.jpg",
+      "thumb": "assets/images/projectThumbs/irving_luke.jpg",
+      "url": "assets/images/projectImages/irving_luke.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "A system of products designed to streamline incident management and communication on the scene for Fire & Rescue NSW.",
+    "projectDescription": "<p>Information is one of the most crucial aspects of an emergency.&nbsp;There are a number of inefficiencies and points of frustration within the current system of incident management and communication on the scene of a fire.&nbsp;The structure is very detailed, by requirement, but the process in which it is carried out increases the pressure placed on the firefighter&nbsp;more than is necessarily required. The clustering of communication may be the most appropriate method when using radio transceivers but it is not as efficient as some of the potential alternative technologies that could be integrated into the system.</p><br/><p>The development of the Incident Management Software targets all of the inefficiencies that were identified in the process. Long acronyms and extended radio messages are replaced with progressive information input and digital communication.&nbsp;To ensure that the interface can function to its full potential it is crucial that the firefighter&nbsp;is able to conduct the work whilst remaining mobile throughout the fire ground. It is therefore required that the iPad be adequately protected against the hazards present in such an environment, as well as being able to stand up to the rigors of the ritual of use in high impact, high stress working conditions. This is ensured through the development of a purpose built casing design that both protects the device and assists full functionality with the user in full firefighting uniform.</p><br/><p>However new software is&nbsp;of no help&nbsp;if the user cannot operate it. Capacitive touchscreens are not designed to function when wearing thick firefighting gloves and as such a stylus is required to make the system work. Existing stylus designs on the market are not appropriate for use with firefighting gloves; hence the need for the&nbsp;specialised design that is integrated&nbsp;into the fire ground communications kit. The considered ergonomics and ritual of use combine to ensure that the device remains fully operational and the firefighter&nbsp;can achieve their tasks in the most efficient and effective method as possible.</p>",
+    "email": "luke.irving507@gmail.com",
+    "publish": true
   },
   {
     "id": "17",
@@ -347,53 +347,53 @@
     "firstName": "Kelsey",
     "userPhoto": "assets/images/userPhotos/krauter_kelsey.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "http://au.linkedin.com/pub/kelsey-krauter/a1/290/87a/",
+    "projectTitle": "Library Buddy",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder20.jpg",
+      "thumb": "assets/images/projectThumbs/krauter_kelsey.jpg",
+      "url": "assets/images/projectImages/krauter_kelsey.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Library Buddy solves the problems of acoustic distraction and petty theft within libraries. Library Buddy is dynamic furniture that interacts with users and the environment. Library Buddy is an Internet of Things design that allows for self regulation of work areas, noises and security.",
+    "projectDescription": "<p> Library Buddy addresses two major problems affecting libraries. The first problem affecting libraries is providing appropriate acoustic space for various styles of learning. Some library patrons require quiet individual learning spaces, while others require quiet group working spaces and still others want noisier spaces. The root of this problem stems from the diversity of library users. Depending on the type of acoustical environment a library user has grown used to depends on whether or not a noisy space is distracting or a quiet space is distracting. </p><br/><p>Library Buddy measures the sound pressure level (SPL) commonly referred to as decibel level to allow the library user two tools to improve their experiences at the library. Firstly before the user even arrives at the library they can access either an application or website to see how many empty desks there are and the current noise levels around these desks. This allows library users to find appropriate work areas for their learning styles. Perhaps even more importantly Library Buddy allows the library to dynamically change the number of quiet and noisy spaces based on realtime demands of library users. </p><br/><p>When a user is at a desk visual cues provide indication when the user is being too noisy for that particular work area. This allows library users to self govern their noise levels and relies on peer pressure to keep the overall SPL at an appropriate level. </p><br/><p>The second problem that Library Buddy addresses is petty theft. This means opportunistic thieves who snatch personal belongings. Imagine you have your laptop or tablet, some papers and some books at an individual work desk. You need to use the bathroom, go get a book off the shelves or just stretch your legs. Currently you would have to pack up your belongings and take them with you to ensure their safety and someone else might take your desk while you are away. </p><br/><p>Library Buddy addresses this problem by allowing you to use your library card to ‘tap on’ thus activating the security features allowing you to leave any type of belongings on your desk. You simply ‘tap off’ when you come back.</p><br/><p>Library Buddy is presented as a furniture solution, however the sensing and visual feedback equipment can be retrofitted to existing desks.</p><br/><p>Library Buddy should be deployed across the entire library so that they can operate to their full potential.</p>",
+    "email": "kels7891@bigpond.com",
+    "publish": true
   },
   {
     "id": "19",
     "lastName": "Lee",
     "firstName": "Eunice",
     "userPhoto": "assets/images/userPhotos/lee_eunice.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.behance.net/eunicelee",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Ripple",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder21.jpg",
+      "thumb": "assets/images/projectThumbs/lee_eunice.jpg",
+      "url": "assets/images/projectImages/lee_eunice.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Ripple is a safety device that assists parents in supervising infants and toddlers from drowning accidents outside of expected aquatic environments.",
+    "projectDescription": "<p>Young children aged 0-4 years represent the highest drowning rate of any age group. Drowning is the leading cause of unintentional death in children under 5 years of age in Australia and&nbsp;for every child death from drowning, 5 children are hospitalised for near drowning incidents. With non-fatal drowning incidents, there are high risks of neurological damage with lifelong economic and hconsequences. The great majority of children in this age group who drown have fallen or wandered into water and only a small proportion have drowned while swimming or during play in water.&nbsp;Apart from buoyancy aids that have been around for almost 100 years, there are very few products in the market aimed at preventing children from drowning. Furthermore, most existing products only protect children when they are expected to be in and around water but do not take into account that children can drown anywhere and at a ny time.&nbsp;</p><br/><img src='http://i1368.photobucket.com/albums/ag161/eunice382/Rippledevices_zpsdd97ec52.jpg' style='width: 600px; height: 473px;' /><br /><p>Ripple is a safety device that assists&nbsp;parents in supervising their children from drowning accidents outside of aquatic environments. Unlike other water safety products, Ripple is worn all the time and&nbsp;can accommodate to a number of different locations so that wherever a child accesses water, the parent or caregiver is notified immediately, minimising the delay in reaction time and&nbsp;reducing the chance of fatality.</p><br/><p><img src='http://i1368.photobucket.com/albums/ag161/eunice382/RippleappUI_zps3b7f528c.jpg' style='width: 900px; height: 325px;' /></p><br/><p>Worn by infants and toddlers, Ripple instantly senses if a child has fallen or ventured into water and sends an alert wirelessly using Bluetooth Low Energy to the parent&rsquo;s Ripple App. Once the alert is received, parents can use the app to locate the child quickly using information on direction and proximity. Ripple has an additional function to alert parents if the child has wandered beyond a preset distance boundary, reminding parents to always remain alert and keep their children close by. Parents can also choose to use the locate function on the app at any time if they cannot find their child. Ripple&nbsp;offers two types of interchangeable cases:&nbsp;the first is a clip for infants, and the second is a childproof wristband for slightly older toddlers.&nbsp;Nothing replaces careful attention of the parent but Ripple can be a lifesaving tool and an added layer of protection that reminds parents to supervise their children closely.</p>",
+    "email": "eunice382@gmail.com",
+    "publish": true
   },
   {
     "id": "20",
     "lastName": "Lennon",
     "firstName": "Jake",
     "userPhoto": "assets/images/userPhotos/lennon_jake.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://jake-lennon.squarespace.com",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "RESAP Retail Security Analytical Platform",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder22.jpg",
+      "thumb": "assets/images/projectThumbs/lennon_jake.jpg",
+      "url": "assets/images/projectImages/lennon_jake.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "RESAP is an intelligent security solution aimed at gaining in-depth customer insight into consumer behaviour, and uses that knowledge to provide loss prevention teams with accurate data about where instore theft occurs, and at what time – providing real-time inventory tracking.",
+    "projectDescription": "<p>The retail environment has grown far more complex with the emergence of new sales channels and changing customer behaviours. In a wireless world, consumers expect information and service right at their fingertips. They want more variety of items and better service within an efficient timeframe. However, the tight global economy has lead to significantly reduced operating budgets, forcing retailers to do “more with less”. </p><br/><p>In spite of the significant problem posed by shoplifting, there has been little systematic research into the issue that poses great threat on Australian retailers. Shoplifting is continuously increasing among Australian retailers, as businesses are unable to provide an accurate form of data on the occurrence of shoplifting as it is often established by an audit rather than the crime itself being witnessed. As retailers stretch their resources to combat shoplifting, they too must maintain an exceptional level of customer service, and in doing so balancing loss prevention and customer experience as a top priority.</p><br/><p>RESAP uses RFID tagging as a means of securing and monitoring merchandise with the added benefit of identifying what exact items customers are picking up and trying on in store in the space of change rooms.</p><br/><p>When a customer enters a change room each item they have with them are counted by the reading of an RFID tag and then transmitted wirelessly to a tablet screen that is wall mounted inside the change room providing customers with additional product information about the items they are trying on.</p>",
+    "email": "j_2035@hotmail.com",
+    "publish": true
   },
   {
     "id": "21",
@@ -419,17 +419,17 @@
     "firstName": "Alinta",
     "userPhoto": "assets/images/userPhotos/lim_alinta.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "http://au.linkedin.com/in/AlintaLim",
+    "projectTitle": "Durie Design for Fuego Outdoor Grill",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder24.jpg",
+      "thumb": "assets/images/projectThumbs/lim_alinta.jpg",
+      "url": "assets/images/projectImages/lim_alinta.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Over 25% of primary grill users today are women, however the state of the current product market does little to reflect this. The Outdoor Grill by Durie Design for Fuego is a simple solution for the home griller; beautiful to use and have in an outdoor setting.",
+    "projectDescription": "Over 25% of primary grill users today are women, however the state of the current product market does little to reflect this. The Outdoor Grill by Durie Design for Fuego is a simple solution for the home griller; beautiful to use and have in an outdoor setting.",
+    "email": "alintaxpl@gmail.com",
+    "publish": true
   },
   {
     "id": "23",
@@ -454,18 +454,18 @@
     "lastName": "McCann",
     "firstName": "Jessica",
     "userPhoto": "assets/images/userPhotos/mccann_jessica.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/jess73",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Wing",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder26.jpg",
+      "thumb": "assets/images/projectThumbs/mccann_jessica.jpg",
+      "url": "assets/images/projectImages/mccann_jessica.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Wing is a smart desktop shade that reduces the exposure to ultraviolet light in a corporate environment where fluorescent lighting and natural sunlight is present.",
+    "projectDescription": "<p>Wing is a smart desktop shade that reduces the exposure to ultraviolet light in a corporate environment where fluorescent lighting and natural sunlight is present.</p><br/><p>There are currently more than 17,000 Australians and 5 million people worldwide who have been diagnosed with the autoimmune disease, lupus. Photosensitivity is a prominent symptom present in almost all cases and is a major contributor to fatigue and lack of motivation in the workplace.</p><br/><p>As little as 15 to 30 minutes under fluorescent lighting causes overwhelming fatigue and symptom flares for individuals with lupus. Many individuals are faced with the decision to leave their jobs or cut down on working hours to protect their health. The Wing shade offers working independence to individuals with lupus, especially in cases when removing fluorescent lighting is not an able solution.</p><br/><p>Wing incorporates smart materials and technologies that support its movements. The shade independently detects the ultraviolet protected area by using a UV sensor and locates the position of the user at their desk using infrared technology.</p><br/><p>It uses the data collected from these findings to send electronic signals through a hexagonal frame made of shape memory polymer that moves the shade along a vertical axis between 3 key positions. The shade moves freely throughout the day to provide the most accurate and appropriate level of coverage for the user.</p>",
+    "email": "j.mccann@live.com.au",
+    "publish": true
   },
   {
     "id": "25",
@@ -491,17 +491,17 @@
     "firstName": "Christopher",
     "userPhoto": "assets/images/userPhotos/mullen_christopher.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "http://au.linkedin.com/pub/christopher-mullen/69/8a0/969/",
+    "projectTitle": "CommCover",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder28.jpg",
+      "url": "assets/images/projectImages/placeholder1.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "CommCover is a system design that promotes a new a approach to disaster recovery addressing many of the",
+    "projectDescription": "<p>In recent years we have witnessed first hand the increasing severity of disasters both natural and human induced as global warming increasingly impacts on our environment. Environmental scientists have predicted an increase in global warming as the worlds economies continue to develop and expand. The worlds population is increasing exponentially as many third world countries move into the first world, thus placing even more people in the path of disasters. The unpredictable nature of the disasters requires a different approach, one that uses the community and government as equal partners in both disaster relief and disaster rebuilding.</p><br/><p>There are three stages in all disaster relief emergencies; stage one is the initial response stage and a resolution of the immediate emergency, the second stage is the delivery emergency relief and finally stage three is the recovery stage. All three phases are critical for an effective resolution of the disaster emergency. At each phase of the disaster emergency information delivery is crucially important for the effective long term resolution of the disaster.&nbsp;</p><br/><p>Information delivery and needs are multi-faceted across all three phases of the disaster relief. In phases one and two information delivery is very structured and broadly you can say it is command driven. Phase three of the disaster management program requires a more organic bottom up approach, with the delivery of community based information delivery mechanisms.</p><br/><p>The final design incorporates a phone application (App), into an intuitive simple information delivery mechanism. The App enables individuals to input their needs and deliver information directly to the rebuilding authorities. The information is feed into a Geographic Information System (GIS) that allows the authorities to map individual needs against the overall communities needs. The new design will draw on the community demands but at the same time there will be some overall authority and direction.&nbsp;</p>",
+    "email": "cmull922@gmail.com",
+    "publish": true
   },
   {
     "id": "27",
@@ -510,16 +510,16 @@
     "userPhoto": "assets/images/userPhotos/nelson_brandon.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "da Vinci Ergocast Grip",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder29.jpg",
+      "url": "assets/images/projectImages/placeholder1.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "The da Vinci Ergocast Grip is a comfortable disposable grip that replaces the standard Velcro grips in da Vinci Robot Surgery Systems, improving efficiency and control.",
+    "projectDescription": "<p>The da Vinci surgical robot represents a new frontier in medicine. It improves upon conventional ‘keyhole’ minimally invasive surgery by offering surgeons enhanced field of view, higher definition 3D vision and dramatically improved precision and range of motion. There are some drawbacks to the da Vinci system, most notably that surgeons using the da Vinci system lose all haptic (touch) feedback. The lack of touch feedback can lead to surgeons unknowingly applying excessive force with the robotic graspers. By increasing the control a surgeon can employ with their fingertips, the sensitivity of the grip inputs can be improved. A slight improvement in efficiency for every movement may seem insignificant but over a two-hour or longer procedure with more than 500,000 surgeries performed annually these small improvements add up. </p><br/><p><strong>The da Vinci Ergocast</strong> is a comfortable, disposable grip that replaces the standard Velcro grips in da Vinci Robot Surgery Systems. The Ergocast grip is a disposable surgical product and, while capable of being used multiple times, is expected to have a short product life that is expected to be an average of 2-4 procedures. The Ergocast grip provides a superior alternative to the current Velcro grips at a reasonable price point, providing an incentive for hospitals to accept an upgrade to their da Vinci systems to accommodate the Ergocast housing. The cost of the upgrade will eventually be offset through the sale of the Ergocast product, ultimately attaining a profit for Intuitive Surgical. </p>",
+    "email": "b_nelson@live.com.au",
+    "publish": true
   },
   {
     "id": "28",
@@ -566,14 +566,14 @@
     "linkedIn": null,
     "projectTitle": "Web Design - ID14",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/parker_michael_project.jpg",
+      "thumb": "assets/images/projectThumbs/parker_michael.jpg",
+      "url": "assets/images/projectImages/parker_michael.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": "Build from scratch, the ID14 website packed with neat enhancements to show off the collection of work by the 2014 graduates.",
+    "projectDescription": "<p>The project started with three design principles: The projects are featured first, information should be dynamic and shown only as you need it, and it must be available and feature complete for mobile devices.</p><br/><p>The process started with building a stack of web technologies that would allow the site to present information dynamically across a number of different screen sizes. This combined angular.js for data binding, isotope for a responsive tile layout, retina.js to optimise images, and CSS3 for animation.</p><br/> <p>The visual design is minimal, with the focus being on the student work in a series of responsive columns. The tiles are ordered randomly, so that every work is given equal real estate on the site, and for users who want to navigate the projects chronologically, there are options to sort by first and last name.</p><p>There’s a lot of work going on in the background too. There are functions to determine wether the student has an online portfolio and to add the relevant links to their work. The tiles can even determine if the student’s name ends with an &rsquo;s&rsquo; and adjusts the plurality accordingly.<p> Retina.js dramatically reduces load time by checking to see the pixel density of the user's device and injecting the right resolution assets. The site won’t show the projects until every image is ready, ensuring the user experience is always consistent and animation accurate. Angular also looks for a hashed URL on load, allowing the students to have a direct and unique link to their project.</p><br/> <p>Event information is hidden by default, and expands when you need it, there are options to get directions from Google, or to add the event to your calendar. The animation in these sliding panels has been designed to give the user a sense of place and access the information without leaving the page.</p><br/> <p>Beyond the landing page, each student has their own embedded space where they can submit their project story such as this one. The sites data binding framework, angular.js, takes the markup submitted by the students and renders it into HTML, allowing each of the students to curate their own project experience with additional images or multimedia content.</p><br/><br/><iframe src='//player.vimeo.com/video/110533191' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
     "email": "parker_michael@me.com",
-    "publish": false
+    "publish": true
   },
   {
     "id": "31",
@@ -600,34 +600,34 @@
     "userPhoto": "assets/images/userPhotos/ryan_antoine.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Schedule Buddy",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder33.jpg",
+      "thumb": "assets/images/projectThumbs/ryan_antoine.jpg",
+      "url": "assets/images/projectImages/ryan_antoine.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Schedule Buddy is a hand held behavioural change tool that supports activity scheduling from hour to hour rather than day to day. The tool is a platform on which a therapist can easily tailor a constructive daily plan in a novel, functional and consistent way",
+    "projectDescription": "<strong>Problem:</strong><br/><p>Almost 50% of us will experience a mental illness within out life, and depression is a common feature of mental illness.</p><p>Depression is commonly treated using pleasurable activity scheduling but this is harder for those with a mental illness.</p><p>Schedule Buddy is a device that supports those who need help activity scheduling.</p><br/><p>Process Journal - <a href='#''>click to download</a></p><p><strong>Detailed Product Description.</strong></p><br/><br/><strong>Solution:</strong><br /><p>This is Schedule Buddy, a hand held behavioural change tool that supports activity scheduling from hour to hour rather than day to day. The tool is a platform on which a therapist can easily tailor a constructive daily plan in a novel, functional and consistent way.</p><p> {broken image} </p><strong>How to make:</strong><br /><p> {broken image} </p><p> {broken image} </p><p> {broken image} </p><p> {broken image} </p><strong>How to use:</strong><br /><p> {broken image} </p>",
+    "email": "antoine.ryan@gmail.com",
+    "publish": true
   },
   {
     "id": "33",
     "lastName": "Sadowsky",
-    "firstName": "Nicholas",
+    "firstName": "Nick",
     "userPhoto": "assets/images/userPhotos/sadowsky_nicholas.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "https://www.behance.net/NickSadowsky",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Maverick",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder34.jpg",
+      "thumb": "assets/images/projectThumbs/sadowsky_nicholas.jpg",
+      "url": "assets/images/projectImages/sadowsky_nicholas.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Quad bike helmet design for Australian Farmers in response to their needs and problems experienced. Aimed to encourage the use of helmets and reduce injury and deaths across the industry.",
+    "projectDescription": "<p>Maverick is an Australian Farmer Specific helmet developed in response to quad bike injuries and fatalities. Designed to be used on trail bikes, horses and quad bikes it aims to solve issues identified by farmers by being lightweight, temperature efficient, sun protective and multi-functional.</p><br/><p>The segmented and engaging form emphasis the modular nature where bold yet simplistic lines highlight the resolved and intuitive nature. Its function is integrated throughout and communicate a cohesive product.</p><br/><img src='http://i1293.photobucket.com/albums/b596/NickS1992/Rendering_193_zps2ad9fd4a.png'><br/><img src='http://i1293.photobucket.com/albums/b596/NickS1992/Rendering_198_zpsae34c713.png'><br/><img src='http://i1293.photobucket.com/albums/b596/NickS1992/Rendering_196_zps9cc197fb.png'><br/><img src='http://i1293.photobucket.com/albums/b596/NickS1992/Rendering_197_zps8549e904.png'><br/><img src='http://i1293.photobucket.com/albums/b596/NickS1992/Rendering_1114_zps6468ff4a.png'><br/><iframe src='//player.vimeo.com/video/110968907' width='700' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen>",
+    "email": "nick.sadowsky@student.uts.edu.au",
+    "publish": true
   },
   {
     "id": "34",
@@ -636,16 +636,16 @@
     "userPhoto": "assets/images/userPhotos/sidery_todd.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Bertha",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder35.jpg",
+      "thumb": "assets/images/projectThumbs/sidery_todd.jpg",
+      "url": "assets/images/projectImages/sidery_todd.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Bertha provides support to women in a number of beneficial upright positions during child birth.",
+    "projectDescription": "<p>Utilising upright postures during labour and birth can increase the available space within the pelvis by 28-30% giving more room for baby to be born.</p><br/><p>Active and upright birth has also been shown to lead to a 29% reduction in emergency cesarean sections and 21% reduction in rates of episiotomy (a cut made to the area between the vagina and anus) in women who give birth in an upright position.</p><br/><p>Being active during labour can help to reduce lower back pain and can help baby orientate in their decent through the birth canal.</p><br/><p>Upright postures have also been shown to result in a 23% reduction in medically assisted deliveries-more space, less distress and a shorter labour results in fewer unnecessary interventions.</p><br/><p>Bertha exploits these benefits by providing furniture that supports women in various advantageous postures whilst also considering her interaction with partner, midwife and the space in which she is birthing.</p><br/><img src='http://i.imgur.com/LuKzmIK.jpg'/><br/><iframe width='700' height='392' src='//www.youtube.com/embed/nor7Au0D7T8' frameborder='0' allowfullscreen></iframe>",
+    "email": "toddsidery@gmail.com",
+    "publish": true
   },
   {
     "id": "35",
@@ -706,18 +706,18 @@
     "lastName": "Vaupel",
     "firstName": "Karl",
     "userPhoto": "assets/images/userPhotos/vaupel_karl.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://vaupel.co",
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": "Stack-Lift",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder39.jpg",
+      "thumb": "assets/images/projectThumbs/vaupel_karl.jpg",
+      "url": "assets/images/projectImages/vaupel_karl.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Stack-Lift improves stacking and manoeuvring of heavy products in manufacturing by using an adjustable spring to keep the top of a stack at a constant height. It bridges the gap between forklifts and conveyor belts – keeping workers safe and costs down.",
+    "projectDescription": "<p>The Stack-Lift is a dolly which allows stock to be easily and quickly stacked and transported between machines. It will be leased or sold to factories for less than the operational cost of a forklift, or equivalent stock movement products </p><br/><p>The trend toward lean manufacturing has produced the problem of how to move stock between workstations without a linear production line. Large factories custom engineer dollies and cranes, however smaller facilities are limited to existing, often unsuitable solutions (such as forklifts).<br/><p>The research period focused on proving the concept and feasibility of an adjustable, spring powered, portable scissor lift. The design realisation and functioning prototype are a valuable and marketable innovation in safety and efficiency. The engineering innovation combined with a sophisticated business strategy received the 3P prize from the UTS school of business.</p><br/><p>Vaupel is pursuing patent protection and a further investment before launch as a product. </p><br/>",
+    "email": "v@upel.co",
+    "publish": true
   },
   {
     "id": "39",
@@ -743,17 +743,17 @@
     "firstName": "Alexander",
     "userPhoto": "assets/images/userPhotos/wong_alexander.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "https://www.linkedin.com/pub/alexander-wong/68/176/1b",
+    "projectTitle": "The Task Lounge",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder41.jpg",
+      "thumb": "assets/images/projectThumbs/wong_alexander.jpg",
+      "url": "assets/images/projectImages/wong_alexander.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "The Task Lounge is an adaptable furniture solution for modern day Activity Based Working Environments. It aims to foster creativity in its users thought its various features that accommodate for the differing needs of individuals, collaborative groups, social groups and formal meetings.",
+    "projectDescription": "<br/><strong>Product Description</strong><br/><p>The Task Lounge is designed with the idea of connecting work and play through technology. It aims to connect people, foster collaborative interactions and creative thinking. Mobility and adaptability are the key features of the design which allow the users to interact with the product in a variety of different ways and in various situations. The lounge is for collaborative spaces in specific, an Activity Based Working environment, but can be re-appropriated to a wide variety of collaborative spaces like universities and colleges. The product works best in groups of at least three. These collaborative pods are able to transform an open area within the office into a collaborative space within the space. The group is able to separate themselves from the cohort by lifting their privacy barriers which creates both a visual and auditory barrier between them and the office.</p><br/><iframe width='700' height='393' src='//www.youtube.com/embed/NGaieIGShPA' frameborder='0'; allowfullscreen;></iframe><br/><strong>Features</strong><br/><br/><p>The shade is simply pulled upwards by the employee until it snaps into position. The spring assisted mechanism allows this to be achieved. By lifting up the shade the user blocks out visual and auditory distractions coming from the behind.</p><br/><p>The shade also provides a neutral and non-distracting backdrop for virtual conference calls. The sound dampening fabric located on the inner face of the hood also provides a level of auditory containment when in group discussion. This allows groups to work at a comfortable auditory level without disturbing their peers.</p><br/><p>The <em>Retractable Screen</em> allows the user to project their smart device&rsquo;s (laptop/ tablet/ phone) display in a larger format or gain a secondary display.</p><br/><p>To access the screen, the user first reaches over the side and slides the screen along the tracks to their desired position. Next the user opens the side table and places their smart device onto the table to instantly connect the two devices. If the user&rsquo;s smart device does not have <em>NFC</em> capabilities, the user can press the button located on the reverse side of the screen to initiate the <em>wifi</em> pairing. (Note, only devices with <em>wifi</em> capabilities can connect to the <em>Retractable Screen</em>).</p><br/><p>This feature allows the user to be more mobile when commuting to and from the office as they do not need to bring a laptop to work if they want a larger computing device. The <em>Retractable Screen</em> allows employees to use their smart phone or tablet as their main form of computing without having to worry about using a small screen.</p><br/><p>Each Task Lounge can connect with other via the company&rsquo;s <em>information cloud</em> and groups can work collaboratively though the<em> &ldquo;screen sharing&rdquo;</em> feature. Each member can observe the work of another group member when the user allows.&nbsp;</p><br/><p>To use this feature, the employees simply log into the company server and using &ldquo;Microsoft Lync&rdquo; registers each user into their team. Once this is completed, each employee simply taps on or clicks the team member that they want to view&rsquo;s name. A prompt appears on the viewee&rsquo;s screen asking if they would like to share their screen and they simply reply by tapping yes or no.</p><br/><p>This feature allows users to easily share work and learn collectively from each other without having to be within proximity of each other. This feature can also be used outside of the office allowing groups to never lose touch with each other. However use within the office allows groups working collaboratively to work more quietly and more space efficiently as they do not need to crowd around a single desk when viewing a team members work. This creates less distraction for other employees working within the same space.</p><br/><p>The <em>Smart Side Table</em> connects smart devices to the screen via a<em> wifi</em> connection. The table has a <em>NFC </em>prompt that instantly connects <em>NFC</em> capable devices to the <em>Retractable Screen</em>. If the device is removed from the table, this does not unpair the device with the screen. The table also contains an induction charger that charges compatible smart devices. One USB charging port and one 240v mains power point are located behind the side table for incompatible devices.</p><br/><p>The surface of the table is large enough for a note book, laptop or meal to sit comfortably on top. The user can use the table to charge their phone or tablet by placing it on the designated charging area. If the desired device doesn&rsquo;t charge, they can plug the device charger into the power point located under the table. Alternatively the table can be used simply like a normal side table.</p><br/><p>The lounge is powered by a <em>Retractable Extension Lead </em>that is stored within the body of the lounge. There is an on board battery that can hold charge temporarily as to not lose any work if the cord is unplugged. The cord is simply pulled out just like a vacuum lead and then retracted by lifting the cover flap.</p><br/><p>The retractable nature of the cable is to improve the mobility of the lounge. It promotes the notion that they chairs can and should be rearranged to suit the needs of the groups or individuals.</p><br/><p>The large open seat of the chair allows the user to adopt a range of <em>dynamic postures</em>. This means that they will be able to work in any way they want.</p><br/><p>The ability to move constantly within the chair allows the user to adopt a range different postures though out their working day as to not develop a stiff back or muscular strains though static posture. The ergonomic comfort that this provides to the user reduces the likelihood of the development of strains in the back, neck and shoulders. These types of injuries are directly linked to headaches and the drop in employee performance.</p><br/><p>The openness of the seat allows users to easily collaborate with each other as there is nothing obstructing the view of each other. The swivel mechanism also allows users to face each other without awkward twisting.</p><br/><p><em>Auto-Locking Casters Wheels</em> in each leg allow the chair to be easily moved around the office when not loaded.</p><br/><p>When a person sits down on the chair, the castor wheels in each leg lock automatically. The spring inside the leg is compressed causing the castor to hit the rubber stopping ring. This is so that the users are not sliding around when using the chairs which can be very distracting and also dangerous due to the cable of the chair causing a tripping hazard. The castors automatically unlock when the user stands to allow for easy manipulation of the furniture for rearrangement.&nbsp;</p>",
+    "email": "wong.alexyc@gmail.com",
+    "publish": true
   },
   {
     "id": "41",
@@ -761,17 +761,17 @@
     "firstName": "Francois",
     "userPhoto": "assets/images/userPhotos/wong_francois.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "https://www.linkedin.com/pub/francois-wong-ting-fook/67/848/493",
+    "projectTitle": "Activate",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder42.jpg",
+      "thumb": "assets/images/projectThumbs/wong_francois.jpg",
+      "url": "assets/images/projectImages/wong_francois.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Activate is a system implemented at the Australian governmental primary schools to help reduce food waste at the consumer stage. This holistic system makes use of various elements to teach children to love healthy food and hate waste.",
+    "projectDescription": "<p>Food waste is an issue in this country. 40% of the average bins in Australia is food and that is 20% of the amount of food consumers buy. There are many reasons as to why consumers should reduce food waste. The four main reasons are about financial responsibilities, ethical responsibilities, environmental responsibilities and being responsible for the next generation.</p><br/><br/><p><img alt='Activate System' src='http://oi62.tinypic.com/2j439lc.jpg'/></p><br/><br/><p>Activate is a system implemented at the Australian governmental primary schools to help reduce food waste at the consumer stage. This holistic system makes use of various elements to teach children to love healthy food and hate waste. One of these elements is the Activate lunchbox. The Activate lunchbox is by far the most interesting lunchbox in the market. It has been designed to replicate a plate and it contains elements that attract the children in eating their lunch.</p><br/>",
+    "email": "francoiswong.design@gmail.com",
+    "publish": true
   },
   {
     "id": "42",
@@ -779,17 +779,17 @@
     "firstName": "Edward",
     "userPhoto": "assets/images/userPhotos/yao_edward.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "linkedIn": "au.linkedin.com/pub/edward-yao/58/32b/875/ ",
+    "projectTitle": "Accura",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder43.jpg",
+      "thumb": "assets/images/projectThumbs/yao_edward.png",
+      "url": "assets/images/projectImages/yao_edward.png",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Accura is an intuitive and innovative skinfold caliper, taking the existing practice and sculpting it into a single product. Accura significantly reduces the amount of tools and time required for measure and increases the accuracy of data produced through the standardization of the process.",
+    "projectDescription": "<p>Skinfold measurement’s is one of many anthropometric measures which enable allied health care professionals to determine human size, proportion and body composition. For many, data of this nature is used for the implementation of exercise and diets due to health complications which require such. </p><br/><p>The existing practice of skinfold measurement requires intensive training to attain accurate data. However, due to technical variation between professional to professional, this data cannot be defined as accurate but instead can be considered as precision (how close the data is to each other). This is solely due to one reason, lack of standardisation within both the practice and products.</p><br/><p>Accura resolves this problem by adapting methodologies of the existing practice and implementing them into the single product solution, creating a semi-automated, standardised process of measure. In addition to this, accura streamlines the process by removing any physical input of data. By doing so, this provides the opportunity for the allied health professional to dedicate more time to educate and facilitate for the patients’ needs, effectively reducing health care dollar consumption and increasing efficiency within recovery.</p>",
+    "email": "edwardyao.design@gmail.com",
+    "publish": true
   }
 ]
 

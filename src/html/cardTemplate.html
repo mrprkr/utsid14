@@ -1,4 +1,4 @@
-<div class="card" ng-click="setCardSelected(brick); showProject()">
+<div ng-show="isPublished(brick)" class="card" ng-click="setCardSelected(brick); showProject()">
 
 	<div class="contact">
 		<div class="contactPhotoContainer">
@@ -26,6 +26,6 @@
 			<a ng-bind="setProjectName(brick.firstName)"></a>
 			</div>
 		</div>
-	
+
 </div>
 
