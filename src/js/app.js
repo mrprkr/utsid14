@@ -3,7 +3,13 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	.controller('id14Controller',  ng(function($scope, $http, $sce, $location){
 		//request the data from the JSON file, load it into $scope.bricks
 		$http.get('assets/data/data.json').success(function(data){
-			$scope.bricks = data;
+			var parsedData = [];
+			for(x in data){
+			if(data[x].publish === true){
+				parsedData.push(data[x]);
+				}
+			}
+			$scope.bricks = parsedData;
 		});
 
 		//======= SET CONFIG HERE =========
@@ -103,7 +109,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=2200;
+		var delay=1200;
 		setTimeout(function(){
 		var $imgLoad = $('.brickContainer');
 		$imgLoad.imagesLoaded(function(){

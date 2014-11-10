@@ -114,14 +114,14 @@
     "userPhoto": "assets/images/userPhotos/connellan_adam.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder7.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -222,14 +222,14 @@
     "userPhoto": "assets/images/userPhotos/flestado_julie.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder13.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -276,14 +276,14 @@
     "userPhoto": "assets/images/userPhotos/luckman_john.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder16.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -337,7 +337,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "The design solution is that of a front yard chair and table system that resides behind the fence of the property. The product is an appropriation of outdoor, public and cafe furniture pieces for the setting of the front porch.",
-    "projectDescription": "<p>The product is a modular furniture system designed to be used in combination. The product is a wall mounted hinging mechanism that attaches to the outward facing wall of the house with anchors. The size and make of the product makes it suitable for space saving and accessibility. The table uses the opposite side of the of the flat seat piece.</p><br/><p>The concept proposed by this report attempts to bring home leisure to the front section of the house. By doing this our behaviour becomes observed by the public. The intended result of this would be to create a setting for values and attitudes to be reconsidered amongst the community. Allowing for more natural interactions with others, dwellers can be engaged by the community.</p>",
+    "projectDescription": "<p>The product is a modular furniture system designed to be used in combination. The product is a wall mounted hinging mechanism that attaches to the outward facing wall of the house with anchors. The size and make of the product makes it suitable for space saving and accessibility. The table uses the opposite side of the of the flat seat piece.</p><br/><p>The concept attempts to bring home leisure to the front section of the house. By doing this our behaviour becomes observed by the public. The intended result of this would be to create a setting for values and attitudes to be reconsidered amongst the community. Allowing for more natural interactions with others, dwellers can be engaged by the community.</p>",
     "email": "natvskaw@gmail.com",
     "publish": true
   },
@@ -438,14 +438,14 @@
     "userPhoto": "assets/images/userPhotos/macks_daniel.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder25.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -474,14 +474,14 @@
     "userPhoto": "assets/images/userPhotos/mortimer_edward.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder27.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -522,26 +522,20 @@
     "publish": true
   },
   {
-    "id": "28",
-    "lastName": "Nguyen",
-    "firstName": "Khoa Dinh",
-    "publish": false
-  },
-  {
     "id": "29",
     "lastName": "Philips",
     "firstName": "Evangeline",
     "userPhoto": "assets/images/userPhotos/philips_evangeline.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder31.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -570,14 +564,14 @@
     "userPhoto": "assets/images/userPhotos/potter_michael.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder32.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -678,14 +672,14 @@
     "userPhoto": "assets/images/userPhotos/tran_tram.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder38.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
@@ -714,14 +708,14 @@
     "userPhoto": "assets/images/userPhotos/vodjdani_sina.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": "Placeholder Title and Image",
+    "projectTitle": null,
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/placeholder1.jpg",
       "url": "assets/images/projectImages/placeholder40.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "This is a short description of the product or service",
-    "projectDescription": "This is a more detailed description. You can use HTML tags such as <strong> strong </strong> to emphaise points or include extra images.",
+    "projectSynopsis": null,
+    "projectDescription": null,
     "email": "placeholder@student.uts.edu.au",
     "publish": false
   },
