@@ -10,7 +10,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	
 		//if the URL contains a direct link the site will load the preview view.
-		$scope.isPublic = false;
+		$scope.isPublic = true;
 		if (location.hash != ""){
 	     	$scope.isPublic = true;
 		   }
@@ -103,7 +103,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=1200;
+		var delay=2200;
 		setTimeout(function(){
 		var $imgLoad = $('.brickContainer');
 		$imgLoad.imagesLoaded(function(){

@@ -63,7 +63,7 @@ gulp.task('bower', function () {
 
 gulp.task('watch', function () {
     gulp.watch(
-        ['./src/html/*.html', './src/js/*.js', './src/scss/*.scss','./bower_components'],
+        ['./src/html/*.html', './src/js/*.js', './src/scss/*.scss', './src/data/*.json','./bower_components'],
         ['build']
     )
 });

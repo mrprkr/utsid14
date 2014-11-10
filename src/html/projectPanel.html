@@ -20,8 +20,6 @@
 	<div class="projectContent content">
 		{{cardSelected.projectTitle}}
 		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
-		<br/>
-		<a ng-href="{{cardSelected.projectPhoto.url}}" target="_blank"><img ng-src="{{cardSelected.projectPhoto.url}}" alt="{{cardSelected.projectPhoto.alt}}"></a>
 		<br/><br/>
 		<a href="#" ng-click="showProject()">Back to all projects</a>
 	</div>
