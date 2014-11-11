@@ -8,11 +8,7 @@
 	font-family: "Open Sans", sans-serif;
 }
 body {
-	min-width:320px;
-	height: 100%;
 	overflow-x: hidden;
-	overflow-y: auto;  
-	-webkit-overflow-scrolling: touch;
 }
 
 p {
@@ -52,7 +48,6 @@ nav {
     -webkit-transition: opacity .5s ease-in-out;
 }
 nav a{
-	//navigation
 	font-weight: 600;
 	cursor: pointer;
 }
@@ -116,7 +111,6 @@ nav a{
 /*	background-color: blue;*/
 	margin-left: auto;
 	margin-right: auto;
-	-webkit-overflow-scrolling: touch;
 }
 
 .loader {
@@ -443,16 +437,19 @@ iframe {
 	top: 0;
 	right:0;
 	left:0;
+	bottom:0;
 	background-color: #FFF;
-	z-index: 4;
+	z-index: 12;
 	overflow-x: hidden; 
-	overflow-y: auto;
+	overflow-y: scroll;
 	box-shadow: 3px 0px 5px #CCC;
-	-webkit-overflow-scrolling: touch;
+	-webkit-overflow-scrolling: touch !important;
+    overflow: scroll !important;
 }
 
 .projectPanelHeroContainer {
-	height: 260px;
+	position: static;
+	max-height: 260px;
 	width: 100%;
 	max-width: 1800px;
 	display: block;
@@ -464,6 +461,7 @@ iframe {
 }
 
 .projectPanelHero {
+	position: static;
 	height: 280px;
 	width: 101%;
 	display: block;
@@ -484,6 +482,9 @@ iframe {
 	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
+	height: auto;
+	max-height: none;
+	-webkit-transform: translateZ(0);
 }
 
 .content img{
@@ -592,7 +593,6 @@ iframe {
 		height: 100px;
 	}
 	.map img{
-		
 		width: 100px;
 		height: 100px;
 	}
@@ -605,13 +605,12 @@ iframe {
 
 	.projectPanelHero {
 		max-height: 200px;
-		-webkit-filter: blur(0px);
-		filter: blur(0px);
 	}
 
 	.projectPanelHeroContainer {
 		max-height: 200px;
 	}
+
 	#projectUserPhoto {
 		display: block;
 		margin-left: auto;

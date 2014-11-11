@@ -16,7 +16,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	
 		//if the URL contains a direct link the site will load the preview view.
-		$scope.isPublic = false;
+		$scope.isPublic = true;
 		if (location.hash != ""){
 	     	$scope.isPublic = true;
 		   }
@@ -74,6 +74,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			if($scope.showingProject === true){
 				$('nav').removeClass('hiddenNav');
 				$('body').addClass('noScroll');
+				document.getElementById("project-panel").addEventListener('touchstart', function(event){});
 			}
 			else{
 				$('body').removeClass('noScroll');
@@ -154,7 +155,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	//runs the project setup once the code has loaded
 	$scope.loadProjects();
-
 }));
+
 
 

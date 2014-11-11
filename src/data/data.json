@@ -94,8 +94,8 @@
     "lastName": "Chong",
     "firstName": "Justin",
     "userPhoto": "assets/images/userPhotos/chong_justin.jpg",
-    "userPortfolio": "http://www.behance.net/JustinChong",
-    "linkedIn": null,
+    "userPortfolio": null,
+    "linkedIn": "http://au.linkedin.com/in/justinchong92",
     "projectTitle": "Sonata",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/chong_justin.jpg",
@@ -103,7 +103,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Sonata is a stress-relief device for individuals with late-stage dementia. Sonata works autonomously, periodically testing blood pressure of the user. If readings exceed a certain threshold set by the caregiver, auditory sensory stimulation will be activated to relax the user, decrease blood pressure and thus, the chances of a stroke.",
-    "projectDescription": "<p>Living with dementia related diseases such as Alzheimer’s disease has a profound effect on quality of life, not only for the individual with dementia, but also their caregiver, who goes through the stresses of caring for that individual. Towards the later stages of dementia, individuals can lose much of their cognitive and physical functioning and can become more susceptible to stoke. </p><br/><p>Sonata functions as a stress relief device\u2028for individuals with late-stage dementia. The device operates by utilising musical sensory stimulation to decrease stress and blood pressure and thus, resulting in a decline of the chances of a stroke.</p><br/><p>Sonata consists of two separate devices, the blood pressure module and the sound module. The two devices work together to improve the quality of life for both the individual with dementia and their caregivers.</p><br/><p>Sonata works by periodically testing the blood pressure of an individual with dementia through the blood pressure module. Both the position of the cuff (either the ankle or arm) and the time between the periods tested will be unique and depend on each individual.</p><br/><p>As the blood pressure is tested, a reading will be made. In accordance to the parameters set for the person with dementia, a threshold will be placed that if exceeded, will cause a wireless signal to be sent to the sound module.</p><br/><p>The sound module clips onto the collar of the individual with dementia, in which a small speaker will be directed towards their ear. If it picks up a signal from the blood pressure module, it will play a series of songs that are either specified by the caregiver (e.g. reminiscent music or relaxing sounds), or generalised calming music including classical music, which will act as a stress relief for the individual with dementia. Additionally, the device will help improve the quality of life for caregivers by providing them a sense of comfort knowing that the individual they’re caring for has an increased quality of life by both providing musical stimulation for the individual dementia and lessening their chance of stroke from hypertension.</p><br/><p>Initial user testing was conducted to understand the relationship between music and blood pressure readings. In doing so, a function model was creating utilising Arduino. Although this model does not look like my final product, it has the basic functionality that I would like my final product to possess. As a disclaimer, the video is not intended to make any conclusions or medical claims, but rather only show that there is potential for further research into the relationship between music, stress and blood pressure. </p><br/><img src='http://i.imgur.com/7Y50luFl.jpg'><br/><img src='http://i.imgur.com/LXNwhLWl.png'><br/><img src='http://i.imgur.com/nAq4hiSl.jpg'><br/><p>Initial User Testing Video</p><br/><iframe width='700' height='392' src='//www.youtube.com/embed/0QZds-tHs-g' frameborder='0' allowfullscreen></iframe>",
+    "projectDescription": "<p>Living with dementia related diseases such as Alzheimer’s disease has a profound effect on quality of life, not only for the individual with dementia, but also their caregiver, who goes through the stresses of caring for that individual. Towards the later stages of dementia, individuals can lose much of their cognitive and physical functioning and can become more susceptible to stoke. </p><br/><p>Sonata functions as a stress relief device for individuals with late-stage dementia. The device operates by utilising musical sensory stimulation to decrease stress and blood pressure and thus, resulting in a decline of the chances of a stroke.</p><br/><p>Sonata consists of two separate devices, the blood pressure module and the sound module. The two devices work together to improve the quality of life for both the individual with dementia and their caregivers.</p><br/><p>Sonata works by periodically testing the blood pressure of an individual with dementia through the blood pressure module. Both the position of the cuff (either the ankle or arm) and the time between the periods tested will be unique and depend on each individual.</p><br/><p>As the blood pressure is tested, a reading will be made. In accordance to the parameters set for the person with dementia, a threshold will be placed that if exceeded, will cause a wireless signal to be sent to the sound module.</p><br/><p>The sound module clips onto the collar of the individual with dementia, in which a small speaker will be directed towards their ear. If it picks up a signal from the blood pressure module, it will play a series of songs that are either specified by the caregiver (e.g. reminiscent music or relaxing sounds), or generalised calming music including classical music, which will act as a stress relief for the individual with dementia. Additionally, the device will help improve the quality of life for caregivers by providing them a sense of comfort knowing that the individual they’re caring for has an increased quality of life by both providing musical stimulation for the individual dementia and lessening their chance of stroke from hypertension.</p><br/><p>Initial user testing was conducted to understand the relationship between music and blood pressure readings. In doing so, a function model was creating utilising Arduino. Although this model does not look like my final product, it has the basic functionality that I would like my final product to possess. As a disclaimer, the video is not intended to make any conclusions or medical claims, but rather only show that there is potential for further research into the relationship between music, stress and blood pressure. </p><br/><img src='http://i.imgur.com/7Y50luFl.jpg'><br/><img src='http://i.imgur.com/LXNwhLWl.png'><br/><img src='http://i.imgur.com/nAq4hiSl.jpg'><br/><p>Initial User Testing Video</p><br/><iframe width='700' height='392' src='//www.youtube.com/embed/0QZds-tHs-g' frameborder='0' allowfullscreen></iframe>",
     "email": "jrc693@hotmail.com",
     "publish": true
   },
@@ -276,16 +276,16 @@
     "userPhoto": "assets/images/userPhotos/luckman_john.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": null,
+    "projectTitle": "Flow",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder16.jpg",
+      "thumb": "assets/images/projectThumbs/john_luckman.jpg",
+      "url": "assets/images/projectImages/john_luckman.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Flow is a system designed to give university students a tool to procrastinate less. Flow includes a desktop/phone application and the 'zenstone' a portable monitoring device.",
+    "projectDescription": "<p>The flow app is a revolutionary system that guides you every step of the way to a better, more productive you.</p><br/><img src='http://i.imgur.com/If8YoJc.jpg'><br/><img src='http://i.imgur.com/fADS5FY.jpg'><br/><iframe width='700' height='292' src='//www.youtube.com/embed/SsMq6WbeFqU' frameborder='0' allowfullscreen></iframe>",
+    "email": "getluckman@gmail.com",
+    "publish": true
   },
   {
     "id": "15",
