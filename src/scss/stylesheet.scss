@@ -5,7 +5,7 @@
 
 /*normalise browser*/
 * {
-	font-family: "Open Sans";
+	font-family: "Open Sans", sans-serif;
 }
 body {
 	min-width:320px;
@@ -189,7 +189,7 @@ hr {
 .card {
 	display: inline-block;
 	background-color: rgba(253, 253, 253, 1);
-	border-radius: 10px;
+	border-radius: 8px;
 	width: 320px;
 	margin:20px;
 	cursor: pointer;
@@ -470,8 +470,8 @@ iframe {
 	margin-left: -2px;
 	background-position: center;
 	background-size: cover;
-	-webkit-filter: blur(2px);
-	filter: blur(2px);
+	-webkit-filter: blur(4px);
+	filter: blur(4px);
 }
 
 .back {

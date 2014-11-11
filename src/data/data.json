@@ -4,7 +4,7 @@
     "lastName": "Abdo",
     "firstName": "Mariana",
     "userPhoto": "assets/images/userPhotos/abdo_mariana.jpg",
-    "userPortfolio": "https://www.behance.net/marianaabdo",
+    "userPortfolio": "http://www.behance.net/marianaabdo",
     "linkedIn": null,
     "projectTitle": "Valina Light",
     "projectPhoto": {
@@ -58,7 +58,7 @@
     "lastName": "Berk",
     "firstName": "Zeynep",
     "userPhoto": "assets/images/userPhotos/berk_zeynep.jpg",
-    "userPortfolio": "https://www.behance.net/zeynepberk",
+    "userPortfolio": "http://www.behance.net/zeynepberk",
     "linkedIn": null,
     "projectTitle": "Swash",
     "projectPhoto": {
@@ -67,7 +67,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Swash is a Do-It-Yourself hand sanitiser dispenser kit designed for Stage 1 primary school children to learn the benefits of hand hygiene. The concept aims to foster positive behaviour change by encouraging children to participate in the making process. It is an educational tool to be integrated into class curriculum.",
-    "projectDescription": "<p>Current status of cleanliness and health benefits in developed countries are taken for granted. Obtaining healthy habits and maintaining adequate hygiene are significantly important, especially for younger individuals in the society. Obtaining adequate hand hygiene is the simplest and easiest way to reduce the spread of common diseases such as diarrhoea and respiratory infections. Children are most vulnerable to these diseases especially in school settings where there is a constant share of space and interaction between the individuals. This results in high levels of absenteeism during semesters, creating a financial burden on school administration.</p><br/><p>Time constraints, lack of cleanliness and shortage of supplies are the main three obstacles as to why children do no practice adequate hand hygiene. The current hand hygiene equipment and facilities are not appealing to children. </p><br/><p>The aim of this project is to provide a design solution for children to create behavioural change and introduce the benefits of hand hygiene. The Do-It-Yourself design concept aims to foster positive behaviour change by encouraging children actively participate in the process. </p>",
+    "projectDescription": "<p>Current status of cleanliness and health benefits in developed countries are taken for granted. Obtaining adequate hand hygiene is the simplest and easiest way to reduce the spread of common diseases such as diarrhoea and respiratory infections. Children are most vulnerable to these diseases especially in school settings where there is a constant share of space and interaction between the individuals. This results in high levels of absenteeism during semesters, creating a financial burden on school administrations.</p><br/><p>Time constraints, lack of cleanliness and shortage of supplies are the main obstacles as to why children do no practice adequate hand hygiene. Additionally, the current hand hygiene equipment and facilities are not physically and psychologically appealing to children.</p><br/><p>The aim of this project is to provide a design solution for children to provide the classrooms with necessary hand hygiene equipment and create behavioural change towards healthy hygiene habits among children. The Do-It-Yourself design concept aims to foster positive behaviour change by encouraging children to actively participate in the process.</p><br/><p>Swash is an affordable educational tool designed for primary schools that provides an efficient solution for maintaining adequate hand hygiene.</p><img src='http://i44.photobucket.com/albums/f7/zeyzey111/process_zps6afc32fa.jpg'><br/><img src='http://i44.photobucket.com/albums/f7/zeyzey111/cad_zps5882beab.jpg'><br/><img src='http://i44.photobucket.com/albums/f7/zeyzey111/cad_zpsfcb75e7a.jpg'><br/>",
     "email": "zeynepbrk@gmail.com",
     "publish": true
   },
@@ -77,7 +77,7 @@
     "firstName": "Samuel",
     "userPhoto": "assets/images/userPhotos/biro_samuel.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
+    "linkedIn": "https://www.linkedin.com/pub/samuel-biro/7b/b2b/7a",
     "projectTitle": "Re-Do",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/biro_samuel.jpg",
@@ -85,7 +85,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Re-Do is a system that provides consumers a new way to purchase and create bagwear. It allows consumers to choose set bagwear patterns and customise them by allocating different materials to create unique bags made completely from upcycled and sustainable materials.",
-    "projectDescription": "<p><em>Re-Do</em> is an online system that presents a new way of purchasing bagwear to consumers. With the rise of both sustainably-minded consumers and the want for personalised products, <em>Re-Do</em> allows consumers to log on to a website where they will have the ability to choose set bagwear patterns and then allocate materials to each section, in turn creating one-of-a-kind customisable bags. The materials that the system provides to consumers are strictly off-cuts and unused materials - leathers, plastics, fabrics -&nbsp; from companies where the materials, through the concept of upcycling are given new value and new life in the form of a personalised bag.</p><p><br/><a href='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' /></a></p><p>The Re-Do system provides an intuitive interface that guides the user through designing their own bags. The interface combines clean, but striking graphic design and a free-flowing system path that allows the use of the system to be incredibly easy to navigate and understand while presenting an interactive experience with the user. Some of the pages include a &quot;Choose a Pattern&quot; page, a &quot;Customise&quot; page and a &quot;Materials&quot; page with each page taking the user through a different engaging experience.</p><br/><p><a href='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg'/></a></p>",
+    "projectDescription": "<p><em>Re-Do</em> is an online system that presents a new way of purchasing bagwear to consumers. With the rise of both sustainably-minded consumers and the want for personalised products, <em>Re-Do</em> allows consumers to log on to a website where they will have the ability to choose set bagwear patterns and then allocate materials to each section, in turn creating one-of-a-kind customisable bags. The materials that the system provides to consumers are strictly off-cuts and unused materials - leathers, plastics, fabrics -&nbsp; from companies where the materials, through the concept of upcycling are given new value and new life in the form of a personalised bag.</p><p><br/><a href='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/bagsinline_zps41fd049a.jpg' /></a></p><p>The Re-Do system provides an intuitive interface that guides the user through designing their own bags. The interface combines clean, but striking graphic design and a free-flowing system path that allows the use of the system to be incredibly easy to navigate and understand while presenting an interactive experience with the user. Some of the pages include a &quot;Choose a Pattern&quot; page, a &quot;Customise&quot; page and a &quot;Materials&quot; page with each page taking the user through a different engaging experience.</p><br/><p>Re-Do gives the opportunity for waste/unused off-cuts and materials to be given economic value through the application of bags that are promoted as part of a sustainable brand. As the aesthetics of the bags are driven by the user's material decisions and having patterns that are designed for a high-fashion application, the Re-Do bags position themselves as sustainable and customisable while remaining fashionable. This allows for great marketing opportunities and promotion/branding.</p><p><a href='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg' target='_blank'><img src='http://i48.photobucket.com/albums/f234/sammybic/interfaces-together_zpsecaf373a.jpg'/></a></p><br/><iframe src='//player.vimeo.com/video/110643160' width='500' height='392' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
     "email": "sam_bic@hotmail.com",
     "publish": true
   },
@@ -94,7 +94,7 @@
     "lastName": "Chong",
     "firstName": "Justin",
     "userPhoto": "assets/images/userPhotos/chong_justin.jpg",
-    "userPortfolio": "https://www.behance.net/JustinChong",
+    "userPortfolio": "http://www.behance.net/JustinChong",
     "linkedIn": null,
     "projectTitle": "Sonata",
     "projectPhoto": {
@@ -103,7 +103,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Sonata is a stress-relief device for individuals with late-stage dementia. Sonata works autonomously, periodically testing blood pressure of the user. If readings exceed a certain threshold set by the caregiver, auditory sensory stimulation will be activated to relax the user, decrease blood pressure and thus, the chances of a stroke.",
-    "projectDescription": "<p>Living with dementia related diseases such as Alzheimer’s disease has a profound effect on quality of life, not only for the individual with dementia, but also their caregiver, who goes through the stresses of caring for that individual. Towards the later stages of dementia, individuals can lose much of their cognitive and physical functioning and can become more susceptible to stoke.</p></br><p>Sonata functions as a stress relief device for individuals with late-stage dementia. The device operates by utilising musical sensory stimulation to decrease stress and blood pressure and thus, resulting in a decline of the chances of a stroke.</p></br><p>Sonata consists of two separate devices, the blood pressure module and the sound module. The two devices work together to improve the quality of life for both the individual with dementia and their caregivers.</p></br><p>Sonata works by periodically testing the blood pressure of an individual with dementia through the blood pressure module. Both the position of the cuff (either the ankle or arm) and the time between the periods tested will be unique and depend on each individual.</p></br><p>As the blood pressure is tested, a reading will be made. In accordance to the parameters set for the person with dementia, a threshold will be placed that if exceeded, will cause a wireless signal to be sent to the sound module.</p></br><p>The sound module clips onto the collar of the individual with dementia, in which a small speaker will be directed towards their ear. If it picks up a signal from the blood pressure module, it will play a series of songs that are either specified by the caregiver (e.g. reminiscent music or relaxing sounds), or generalised calming music including classical music, which will act as a stress relief for the individual with dementia. Additionally, the device will help improve the quality of life for caregivers by providing them a sense of comfort knowing that the individual they’re caring for has an increased quality of life by both providing musical stimulation for the individual dementia and lessening their chance of stroke by hypertension.</p><br/><img src='http://i.imgur.com/UpAwnvtl.png'/><br/><img src='http://i.imgur.com/nAq4hiSl.jpg'/>",
+    "projectDescription": "<p>Living with dementia related diseases such as Alzheimer’s disease has a profound effect on quality of life, not only for the individual with dementia, but also their caregiver, who goes through the stresses of caring for that individual. Towards the later stages of dementia, individuals can lose much of their cognitive and physical functioning and can become more susceptible to stoke. </p><br/><p>Sonata functions as a stress relief device\u2028for individuals with late-stage dementia. The device operates by utilising musical sensory stimulation to decrease stress and blood pressure and thus, resulting in a decline of the chances of a stroke.</p><br/><p>Sonata consists of two separate devices, the blood pressure module and the sound module. The two devices work together to improve the quality of life for both the individual with dementia and their caregivers.</p><br/><p>Sonata works by periodically testing the blood pressure of an individual with dementia through the blood pressure module. Both the position of the cuff (either the ankle or arm) and the time between the periods tested will be unique and depend on each individual.</p><br/><p>As the blood pressure is tested, a reading will be made. In accordance to the parameters set for the person with dementia, a threshold will be placed that if exceeded, will cause a wireless signal to be sent to the sound module.</p><br/><p>The sound module clips onto the collar of the individual with dementia, in which a small speaker will be directed towards their ear. If it picks up a signal from the blood pressure module, it will play a series of songs that are either specified by the caregiver (e.g. reminiscent music or relaxing sounds), or generalised calming music including classical music, which will act as a stress relief for the individual with dementia. Additionally, the device will help improve the quality of life for caregivers by providing them a sense of comfort knowing that the individual they’re caring for has an increased quality of life by both providing musical stimulation for the individual dementia and lessening their chance of stroke from hypertension.</p><br/><p>Initial user testing was conducted to understand the relationship between music and blood pressure readings. In doing so, a function model was creating utilising Arduino. Although this model does not look like my final product, it has the basic functionality that I would like my final product to possess. As a disclaimer, the video is not intended to make any conclusions or medical claims, but rather only show that there is potential for further research into the relationship between music, stress and blood pressure. </p><br/><img src='http://i.imgur.com/7Y50luFl.jpg'><br/><img src='http://i.imgur.com/LXNwhLWl.png'><br/><img src='http://i.imgur.com/nAq4hiSl.jpg'><br/><p>Initial User Testing Video</p><br/><iframe width='700' height='392' src='//www.youtube.com/embed/0QZds-tHs-g' frameborder='0' allowfullscreen></iframe>",
     "email": "jrc693@hotmail.com",
     "publish": true
   },
@@ -167,7 +167,7 @@
     "firstName": "Cristina",
     "userPhoto": "assets/images/userPhotos/delrosario_christina.jpg",
     "userPortfolio": null,
-    "linkedIn": "https://www.linkedin.com/profile/view?id=246024271&trk=nav_responsive_tab_profile",
+    "linkedIn": "http://www.linkedin.com/profile/view?id=246024271&trk=nav_responsive_tab_profile",
     "projectTitle": "Willed Charity Donation",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/delrosario_christina.jpg",
@@ -184,7 +184,7 @@
     "lastName": "Duong",
     "firstName": "William",
     "userPhoto": "assets/images/userPhotos/duong_william.jpg",
-    "userPortfolio": "https://www.behance.net/williamduong",
+    "userPortfolio": "http://www.behance.net/williamduong",
     "linkedIn": null,
     "projectTitle": "YOLK",
     "projectPhoto": {
@@ -220,29 +220,29 @@
     "lastName": "Flestado",
     "firstName": "Julie",
     "userPhoto": "assets/images/userPhotos/flestado_julie.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.behance.net/JulieFlestado",
     "linkedIn": null,
-    "projectTitle": null,
+    "projectTitle": "Creo",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder13.jpg",
+      "thumb": "assets/images/projectThumbs/flestado_julie.jpg",
+      "url": "assets/images/projectImages/flestado_julie.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Creativity is a vital skill in the 21st century. Creo is an educational board game that promotes the practice of creative thinking in upper-primary school students. It is a fun and engaging game that assists teachers in providing a well-rounded creative education to their students.",
+    "projectDescription": "<p>Creativity is seen as an ever growing needed skill in the 21st century. Creative thinking is becoming more prevalent in addressing the changing economy and in creating new solutions to problems that society has never faced. Research has shown that children are naturally very creative, yet as adults we seem to have lost this creativity. A common theory for this is that schools stifle creativity. </p><br/><p> Creo is a fun, educational board game that promotes the practice of creative thinking in upper-primary school students. It is designed to assist teachers in providing a well-rounded creative education for their students.</p><br/><p> Based on the Critical and Creative Thinking general outcomes of the Australian National Curriculum, it revolves around completing challenges which are split up into categories associated with different thinking processes; inquiry, generation, reflection and analysis, the key elements of the curriculums outcomes. </p><img src='http://i62.tinypic.com/24b2bs6.jpg'><br/><p>Creo challenge cards</p><br/><p> Teachers teach is as many different ways as the children in their classes learn. Creo was designed with this in mind allowing for teachers to adapt the game to their class needs. </p><p> Creo’s ‘board’ is actually a fabric mat. It is more durable and easier to clean than regular cardboard game boards. The mas specifically designed to easily roll up to fit in a neat slim box, taking up less space than regular board games. </p><br/><p><img src='http://i61.tinypic.com/v4qzcx.jpg' alt='Creo game mat'/></p><br/><p><img src='http://i62.tinypic.com/fdzigg.jpg' alt='Creo box image'/></p><br/><img src='http://i62.tinypic.com/2wbwdwo.jpg'><br/><p>Creo is a fun and engaging game to assist teachers in providing a well-rounded creative education for their students. Watch the video to see how to play.</p><br/><iframe src='//player.vimeo.com/video/111400070' width='500' height='392' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+    "email": "julie.flestado@gmail.com",
+    "publish": true
   },
   {
     "id": "12",
     "lastName": "Green",
     "firstName": "Zoe",
     "userPhoto": "assets/images/userPhotos/green_zoe.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.behance.net/zoe_green",
     "linkedIn": null,
     "projectTitle": "The Line",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/green_zoe.jpg",
+      "thumb": "assets/images/projectThumbs/green_zoe.gif",
       "url": "assets/images/projectImages/green_zoe.jpg",
       "alt": "Hero Image"
     },
@@ -264,7 +264,7 @@
       "url": "assets/images/projectImages/gregorace_andrew.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "Embrace is a lower back support that is tailored by a physiotherapist to suite the individual needs of a patients spine. This is a revolutionary approach to the treatment and prevention of Lower Back Pain in sedentary office professionals.",
+    "projectSynopsis": "The Line is a service for men who are homeless to rebuild their lives and leave the culture behind.The Line engages through initially meeting basic necessities that encourage and support them to holistically and sustainably meet their long-term needs for wellbeing and social mobility.",
     "projectDescription": "<p>Embrace Back Support is designed to provide an individualised and customisable approach to the treatment of Lower Back Pain in Sedentary Office professionals.&nbsp;</p><br/><p>The product is to be used tailored by qualified professionals such as physiotherapists using 3D scanning and printing technologies.&nbsp;</p><br /><br/><p>Embrace uses interactive technology to engage the user in their own treatment of lower back pain. Additionally, the product is designed with consideration to current research which encourages a sit-stand workplace environment.</p>",
     "email": "and.gregorace@gmail.com",
     "publish": true
@@ -292,16 +292,16 @@
     "lastName": "Hunt",
     "firstName": "Olivia",
     "userPhoto": "assets/images/userPhotos/hunt_olivia.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://behance.net/oliviahunt",
     "linkedIn": null,
-    "projectTitle": "DIAS Intelligent Faucet",
+    "projectTitle": "DIAS",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/hunt_olivia.jpg",
       "url": "assets/images/projectImages/hunt_olivia.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "DIAS is a highly accessible, intelligent faucet system with soft touch operation providing the user with complete and effortless control. DIAS is a water efficient digital faucet accompanied by an online service component to monitor water consumption.",
-    "projectDescription": "<p>DIAS is a highly accessible, intelligent faucet system with soft touch operation providing the user with complete and effortless control. DIAS is a water efficient digital faucet accompanied by an online service component to monitor water consumption. DIAS redefines the ritual of use between a user and their bathroom faucet and connects users with relevant usage data to empower them to make informed decisions and to address the fundamental behaviours causing water wastage.</p> <iframe src='//player.vimeo.com/video/110355468' width='500' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/><img src='assets/images/projectImages/hunt_olivia_project3.jpg'/><br/><img src='assets/images/projectImages/hunt_olivia_project1.jpg'/><br/><img src ='assets/images/projectImages/hunt_olivia_project2.jpg'/>",
+    "projectSynopsis": "DIAS is an intelligent, highly intuitive faucet that redefines the bathroom and empowers consumers to be more sustainably conscious. DIAS utilises capacitive touch technology to enable soft touch operation and provide complete and effortless control.",
+    "projectDescription": "<p>DIAS is an intelligent, highly intuitive solution to redefine the bathroom and empower consumers to be more sustainably conscious. DIAS is an intelligent faucet that will revolutionise the interaction between you and your bathroom sink. DIAS is a highly accessible, intelligent faucet system with capacitive, soft touch operation providing the user with complete and effortless control. </p><br/><img src='http://i.imgur.com/3KKyCVo.jpg'><br/><br><p>DIAS is a water efficient faucet that redefines the ritual of use between a user and their bathroom faucet by connects users with relevant usage data using a partnering water monitoring service app. This is to empower users to make informed decisions and to address the fundamental behaviours causing water wastage.</p><br/><img src='http://i.imgur.com/oSgxks7.png'><br/><br><p>The project started with the intention to look at the challenges faced within the home by people with conditions affecting dexterity such as arthritis. This exposed a bigger opportunity and prompted an investigation into all interactions in the home, such as turning light switches on and off and opening doors. One of the most difficult and fragmented interactions identified, providing the biggest opportunity for interactive innovation, involved tapware.</p><br/><p>Automatic sensor taps are widely used in public, commercial facilities to reduce the spread of germs and water consumption through providing touch-free, on and off control. These faucets, despite high accessibility and water efficiency, have several shortcomings such as one predetermined setting and limited functionality, which severely deters domestic use. This limiting feature is applied to reduce water usage and increase water efficiency. This attribute however, is the crux to why these systems are inadequate for domestic use.</p><br/><p>This presented a clear opportunity to repurpose the convenience and accessibility of sensor taps for the domestic environment.</p><br/><p>With the least amount of water in rivers, the lowest run-off and smallest area of wetlands, Australia is the driest inhabited continent on earth. This amplifies the importance of water conservation. Approximately 93% of Australian households are connected to mains or the town water supply. This means 93% of the population have instant access to clean, drinkable water. This creates behaviour of expectation which is directly linked to over-consumption, which needs to be acknowledged and addressed to ensure the sustainable consumption of water.</p><br/><p>To address this, the DIAS faucet is partnered with a water monitoring service (WMS), which provides real-time usage statistics of all connected faucets holistically and per individual faucet. This application can be accessed across a variety of media making it simple and easy to access.</p><br/><img src='http://i.imgur.com/wnSrqCl.jpg'><br><br><p>The WMS can be used to check the running cost of the current water bill, track consumption in real-time, monitor and compare consumption history per day, week, month, billing period and year as well as detect abnormalities such as leaks. Using this system, a leak can also be pin-pointed to the particular faucet in question making it quicker and easier to fix.</p><br/><img src='http://i.imgur.com/ErMdoZc.png'><br/> <br><p>DIAS is an intelligent, highly intuitive solution to redefine the bathroom and empower consumers to be more sustainably conscious. </p> <br><img src='http://i.imgur.com/tXaCNse.jpg'><br/><br><br><img src='http://i.imgur.com/TKjKJXz.jpg'><br/><iframe src='//player.vimeo.com/video/110355468' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
     "email": "olivia.hunt@me.com",
     "publish": true
   },
@@ -328,7 +328,7 @@
     "lastName": "Kaw",
     "firstName": "Nathan",
     "userPhoto": "assets/images/userPhotos/kaw_nathan.jpg",
-    "userPortfolio": "https://www.behance.net/natkaw",
+    "userPortfolio": "http://www.behance.net/natkaw",
     "linkedIn": null,
     "projectTitle": "Flip",
     "projectPhoto": {
@@ -382,7 +382,7 @@
     "lastName": "Lennon",
     "firstName": "Jake",
     "userPhoto": "assets/images/userPhotos/lennon_jake.jpg",
-    "userPortfolio": "https://jake-lennon.squarespace.com",
+    "userPortfolio": "http://jake-lennon.squarespace.com",
     "linkedIn": null,
     "projectTitle": "RESAP Retail Security Analytical Platform",
     "projectPhoto": {
@@ -391,7 +391,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "RESAP is an intelligent security solution aimed at gaining in-depth customer insight into consumer behaviour, and uses that knowledge to provide loss prevention teams with accurate data about where instore theft occurs, and at what time – providing real-time inventory tracking.",
-    "projectDescription": "<p>The retail environment has grown far more complex with the emergence of new sales channels and changing customer behaviours. In a wireless world, consumers expect information and service right at their fingertips. They want more variety of items and better service within an efficient timeframe. However, the tight global economy has lead to significantly reduced operating budgets, forcing retailers to do “more with less”. </p><br/><p>In spite of the significant problem posed by shoplifting, there has been little systematic research into the issue that poses great threat on Australian retailers. Shoplifting is continuously increasing among Australian retailers, as businesses are unable to provide an accurate form of data on the occurrence of shoplifting as it is often established by an audit rather than the crime itself being witnessed. As retailers stretch their resources to combat shoplifting, they too must maintain an exceptional level of customer service, and in doing so balancing loss prevention and customer experience as a top priority.</p><br/><p>RESAP uses RFID tagging as a means of securing and monitoring merchandise with the added benefit of identifying what exact items customers are picking up and trying on in store in the space of change rooms.</p><br/><p>When a customer enters a change room each item they have with them are counted by the reading of an RFID tag and then transmitted wirelessly to a tablet screen that is wall mounted inside the change room providing customers with additional product information about the items they are trying on.</p>",
+    "projectDescription": "<p>The retail environment has grown far more complex with the emergence of new sales channels and changing customer behaviours. In a wireless world, consumers expect information and service right at their fingertips. They want more variety of items and better service within an efficient timeframe. However, the tight global economy has lead to significantly reduced operating budgets, forcing retailers to do “more with less”. </p><br/><p>In spite of the significant problem posed by shoplifting, there has been little systematic research into the issue that poses great threat on Australian retailers. Shoplifting is continuously increasing among Australian retailers, as businesses are unable to provide an accurate form of data on the occurrence of shoplifting as it is often established by an audit rather than the crime itself being witnessed. As retailers stretch their resources to combat shoplifting, they too must maintain an exceptional level of customer service, and in doing so balancing loss prevention and customer experience as a top priority.</p><br/><p>RESAP uses RFID tagging as a means of securing and monitoring merchandise with the added benefit of identifying what exact items customers are picking up and trying on in store in the space of change rooms.</p><br/><p>When a customer enters a change room each item they have with them are counted by the reading of an RFID tag and then transmitted wirelessly to a tablet screen that is wall mounted inside the change room providing customers with additional product information about the items they are trying on.</p><br/><img src='/assets/images/projectImages/lennon_jake_project1.jpg'><br/><img src='/assets/images/projectImages/lennon_jake_project2.jpg'><br/><iframe src='//player.vimeo.com/video/111372092' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
     "email": "j_2035@hotmail.com",
     "publish": true
   },
@@ -409,7 +409,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "BUDDY is an interactive therapy toy that facilitates social interactions by educating and training joint attentions and emotional recognition. It aims to create opportunities for parents and educators to improve the children’s communication skills, while also building better social relationships.",
-    "projectDescription": "<p>Autism spectrum disorder prevents young children from developing fundamental social communication skills that are otherwise simple in those with typical developments. Joint attention and emotion recognition are some of the attributes these children lack in their lives, which cause social impairments and lack of focus during conversations.</p><br/><p>BUDDY is an interactive therapy toy that facilitates social interactions by educating and training joint attentions and emotional recognition. It aims to create opportunities for parents and educators to improve the children’s communication skills, while also building better social relationships.</p><br/><p>It is designed to be a part of the early intervention program to improve communication skills in children with autism. It addresses some of the most fundamental impairments in autistic individuals, such as lack of focus in conversations and the inability to read emotions from human faces.</p><br/><p>With the autism diagnosis on the rise around the world, BUDDY will become an essential tool and solution to young children who are struggling with understanding social contexts and help parents to initiate conversations with their children.</p><br/><img src='http://i.imgur.com/nVVAx2d.jpg'><br/><img src='http://i.imgur.com/iVJJpSh.jpg'><br/><iframe src='//www.youtube.com/embed/pYEJyxsgk8Y' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+    "projectDescription": "<p>Autism spectrum disorder prevents young children from developing fundamental social communication skills that are otherwise simple in those with typical developments. Joint attention and emotion recognition are some of the attributes these children lack in their lives, which cause social impairments and lack of focus during conversations.</p><br/><p>BUDDY is an interactive therapy toy that facilitates social interactions by educating and training joint attentions and emotional recognition. It aims to create opportunities for parents and educators to improve the children’s communication skills, while also building better social relationships.</p><br/><br/><p>Generalisation<p><br/><img src='http://i.imgur.com/oN55GTS.jpg'><br/><p>It is designed to be a part of the early intervention program to improve communication skills in children with autism. Due to their inability to generalise learned skills across different contexts and settings, it makes the process a lot more difficult for both the children and the educators.</p><br/><img src='http://i.imgur.com/ByIkKqg.jpg'><br/><p>BUDDY incorporates a new education program that uses a combination of simplified faces and real images to allows children to progress from a simple cartoon, up to the realistic facial expressions. With the help of an electronic companion application, parents can create their own solutions that matches with the children's learning capabilities. Not only it is creative, it opens up opportunities for parents to interact with their children.</p><br/><br/><p>Built to Focus</p><br/><p>The product has various features that would keep an autistic child interested and engaged in the activities. One of which is a mechanism that makes the toy <em>nods</em> when the buttons on the sides are pressed. The simple, repetitive movements are particularly attractive for these children, where parents can use it as an encouragement and reward when they respond to commands correctly.</p><br/><img src='http://i.imgur.com/nVVAx2d.jpg'><br/><br/><p>A Solution to a Growing Problem</p><br/><p>With the autism diagnosis on the rise around the world, BUDDY will become an essential tool and solution to young children who are struggling with understanding social contexts and help parents to initiate conversations with their children.</p><br/><img src='http://i.imgur.com/nGSddbX.jpg'><br/><img src='http://i.imgur.com/iVJJpSh.jpg'><br/><iframe src='//www.youtube.com/embed/pYEJyxsgk8Y' width='100%' height='393' frameborder='0' allowfullscreen></iframe>",
     "email": "jonathan.li.design@gmail.com",
     "publish": true
   },
@@ -427,7 +427,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Over 25% of primary grill users today are women, however the state of the current product market does little to reflect this. The Outdoor Grill by Durie Design for Fuego is a simple solution for the home griller; beautiful to use and have in an outdoor setting.",
-    "projectDescription": "Over 25% of primary grill users today are women, however the state of the current product market does little to reflect this. The Outdoor Grill by Durie Design for Fuego is a simple solution for the home griller; beautiful to use and have in an outdoor setting.",
+    "projectDescription": "<p>Over 25% of primary grill users today are women, however the state of the current product market does little to reflect this. The Outdoor Grill by Durie Design for Fuego is a simple solution for the home griller; beautiful to use and have in an outdoor setting.</p><br/><img src='assets/images/projectImages/lim_alinta.jpg'>",
     "email": "alintaxpl@gmail.com",
     "publish": true
   },
@@ -437,24 +437,24 @@
     "firstName": "Daniel",
     "userPhoto": "assets/images/userPhotos/macks_daniel.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": null,
+    "linkedIn": "http://www.linkedin.com/pub/daniel-macks/52/68a/22b",
+    "projectTitle": "Chill'd Cooling Gear",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder25.jpg",
+      "thumb": "assets/images/projectThumbs/macks_daniel.jpg",
+      "url": "assets/images/projectImages/macks_daniel.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Chill'd is a cooling device designed to reduce the effects of heat exhaustion for motorcyclists who ride during warmer climates.",
+    "projectDescription": "<p>During warmer climates heat exhaustion has a substantial affect on a rider’s conscious safety perception. This includes reduced response to road hazards, a slower reaction time and less physical control of the bike. </p><br/><p>Motorcyclists are obliged to wear protective gear over their body such as a helmet, jacket, pants and gloves. Despite the safety benefits of this gear, it also prevents a riders body from effectively regulating their core temperature. Consequently, in an attempt to stay cool, motorcyclists are frequently found to commute without their proper protective gear. Little do these riders know that skin exposed directly to the sun will acclerate moisture evapouration and cause dehydration faster whilst increasing the risk of sunburn. Ultimately, this will also speed up the affects of heat exhaustion.</p><br/><p>The Chill’d cooling device is a standalone unit which is designed to fit around the neck region of the motorcyclist. The cold pack which surrounds the neck is able to draw excess heat away from the arteries much faster than naturally cooling. The cold pack is kept cool through an innovative technology known as a thermo-electric cooler (also known as a Peltier cooler). The motorcyclist is equiped with a complete control unit which allows them to determine the amount of desired cooling durign a ride.</p><br/><p>In essence, Chill’d ensures a rider is able to focus for longer periods of time and encourages motorcyclists to wear suitable protective gear whilst remaining cool, comfortable and in control.</p><br/><img src='http://i.imgur.com/dbHAaYr.jpg'><br/><img src='http://i.imgur.com/pgPsNV5.jpg'><br/><img src='http://i.imgur.com/CJK591t.jpg'><br/><iframe src='//player.vimeo.com/video/110977392' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+    "email": "daniel.msmacks@gmail.com",
+    "publish": true
   },
   {
     "id": "24",
     "lastName": "McCann",
     "firstName": "Jessica",
     "userPhoto": "assets/images/userPhotos/mccann_jessica.jpg",
-    "userPortfolio": "https://www.behance.net/jess73",
+    "userPortfolio": "http://www.behance.net/jess73",
     "linkedIn": null,
     "projectTitle": "Wing",
     "projectPhoto": {
@@ -473,17 +473,17 @@
     "firstName": "Edward",
     "userPhoto": "assets/images/userPhotos/mortimer_edward.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": null,
+    "linkedIn": "http://www.linkedin.com/pub/edward-mortimer/67/6b9/938",
+    "projectTitle": "Primitive - Food Production",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder27.jpg",
+      "thumb": "assets/images/projectThumbs/mortimer_edward.jpg",
+      "url": "assets/images/projectImages/mortimer_edward.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Primitive food production provides users with a fresh and constant source of fruit, vegetables, and herbs grown inside their own living room. This is an easy way to offset the economic and environmental costs of food.",
+    "projectDescription": "<p>The agriculture industry is the biggest driver of environmental pressure, habitat change, climate change, toxic emissions and water use, according to a report published by the United Nations Environment Programme in 2010. 70% of the world’s drinking water is currently used for the irrigation of crops. This has created an emerging opportunity to allow consumers to reduce the carbon and water footprint of their own food and get back in touch with the growing process.</p><br><img src='http://dl.dropboxusercontent.com/u/45105878/Primitive/hero.jpg'><br><p>The solution is the Primitive food production system. Primitive gives the consumer the ability to sustainably grow their own food with minimal time, experience and resources. It provides consumers with a fresh and constant source of fruit and vegetables, allowing them to offset the costs of food. It does this by removing the need for agricultural runoff, fertilisers, pesticides, packaging and extensive transport.</p><br><p>The Primitive system gives users the ability to grow food by simple refilling the tank once a fortnight. Water flows from the tank down into each of the levels to feed the plants water and nutrients using gravity and a mechanical valve. The mechanical valve lets the plants determine how often they are watered and fed. The system has efficient LED lighting incorporated to feed the plants and allow this system to operate anywhere at any time.</p><br><img src='http://dl.dropboxusercontent.com/u/45105878/Primitive/DSC_5284.jpg'/><br/><img src ='http://dl.dropboxusercontent.com/u/45105878/Primitive/DSC_5287.jpg'/><br/><img src='http://dl.dropboxusercontent.com/u/45105878/Primitive/DSC_5304.jpg'/><br/><img src='http://dl.dropboxusercontent.com/u/45105878/Primitive/DSC_5329.jpg'/><br/><iframe width='700' height='392' src='//www.youtube.com/embed/0qsr9Ia6EkY' frameborder='0' allowfullscreen></iframe>",
+    "email": "edwardmortimer@hotmail.com",
+    "publish": true
   },
   {
     "id": "26",
@@ -494,14 +494,14 @@
     "linkedIn": "http://au.linkedin.com/pub/christopher-mullen/69/8a0/969/",
     "projectTitle": "CommCover",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder1.jpg",
+      "thumb": "assets/images/projectThumbs/mullen_chris.jpg",
+      "url": "assets/images/projectImages/mullen_chris.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "CommCover is a system design that promotes a new a approach to disaster recovery addressing many of the",
-    "projectDescription": "<p>In recent years we have witnessed first hand the increasing severity of disasters both natural and human induced as global warming increasingly impacts on our environment. Environmental scientists have predicted an increase in global warming as the worlds economies continue to develop and expand. The worlds population is increasing exponentially as many third world countries move into the first world, thus placing even more people in the path of disasters. The unpredictable nature of the disasters requires a different approach, one that uses the community and government as equal partners in both disaster relief and disaster rebuilding.</p><br/><p>There are three stages in all disaster relief emergencies; stage one is the initial response stage and a resolution of the immediate emergency, the second stage is the delivery emergency relief and finally stage three is the recovery stage. All three phases are critical for an effective resolution of the disaster emergency. At each phase of the disaster emergency information delivery is crucially important for the effective long term resolution of the disaster.&nbsp;</p><br/><p>Information delivery and needs are multi-faceted across all three phases of the disaster relief. In phases one and two information delivery is very structured and broadly you can say it is command driven. Phase three of the disaster management program requires a more organic bottom up approach, with the delivery of community based information delivery mechanisms.</p><br/><p>The final design incorporates a phone application (App), into an intuitive simple information delivery mechanism. The App enables individuals to input their needs and deliver information directly to the rebuilding authorities. The information is feed into a Geographic Information System (GIS) that allows the authorities to map individual needs against the overall communities needs. The new design will draw on the community demands but at the same time there will be some overall authority and direction.&nbsp;</p>",
+    "projectSynopsis": "CommCover is a system design that promotes a new a approach to disaster recovery.",
+    "projectDescription": "<p>In recent years we have witnessed first hand the increasing severity of disasters both natural and human induced as global warming increasingly impacts on our environment. Environmental scientists have predicted an increase in global warming as the worlds economies continue to develop and expand. The worlds population is increasing exponentially as many third world countries move into the first world, thus placing even more people in the path of disasters. The unpredictable nature of the disasters requires a different approach, one that uses the community and government as equal partners in both disaster relief and disaster rebuilding.</p><br/><p>There are three stages in all disaster relief emergencies; stage one is the initial response stage and a resolution of the immediate emergency, the second stage is the delivery emergency relief and finally stage three is the recovery stage. All three phases are critical for an effective resolution of the disaster emergency. At each phase of the disaster emergency information delivery is crucially important for the effective long term resolution of the disaster.&nbsp;</p><br/><p>Information delivery and needs are multi-faceted across all three phases of the disaster relief. In phases one and two information delivery is very structured and broadly you can say it is command driven. Phase three of the disaster management program requires a more organic bottom up approach, with the delivery of community based information delivery mechanisms.</p><br/><p>The final design incorporates a phone application (App), into an intuitive simple information delivery mechanism. The App enables individuals to input their needs and deliver information directly to the rebuilding authorities. The information is feed into a Geographic Information System (GIS) that allows the authorities to map individual needs against the overall communities needs. The new design will draw on the community demands but at the same time there will be some overall authority and direction.&nbsp;</p><img src='http://i.imgur.com/U9E7UM4.jpg'/><br/><img src='http://i.imgur.com/2f43y46.jpg'/><br/><img src='http://i.imgur.com/B1c6ZlY.jpg'/><br/><iframe width='700' height='392' src='//www.youtube.com/embed/PNl_k5vdy40' frameborder='0' allowfullscreen></iframe>",
     "email": "cmull922@gmail.com",
-    "publish": false
+    "publish": true
   },
   {
     "id": "27",
@@ -528,16 +528,16 @@
     "userPhoto": "assets/images/userPhotos/philips_evangeline.jpg",
     "userPortfolio": null,
     "linkedIn": null,
-    "projectTitle": null,
+    "projectTitle": "NIVA (Noise Isolating Visual Apparatus)",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder31.jpg",
+      "thumb": "assets/images/projectThumbs/philips_evie.jpg",
+      "url": "assets/images/projectImages/philips_evie.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Hospitals are often limited in their resources to control physical environments; thus patients are deprived of their privacy, resulting in psychological patient stress in hospitals. NIVA is an adaptable sound-reduction screen that puts privacy back in the hands of the patient.",
+    "projectDescription": "<p>NIVA has been developed to facilitate a patients’ experience of visual and acoustic privacy in hospital and decrease the psychological stressors that are associated with the said lack of privacy. It also aids system work flow, allows for change and provides added security. The key to the success of this product is in it’s adaptability and customisation. NIVA understands that every patient and illness is different and therefore, requires different information, privacy options and ability to personalise the space.</p><br/><p>The product, is designed to fit around the outskirts of the bed and arc halfway over the bed. This means that it can slide on wheels around the bed, wherever acoustic and visual privacy is required. For example, if a patient needs to rest, NIVA can be placed at the head of the bead and canopy over the patient to stop noise entering the patient’s personal space.</p><br/><p>NIVA can fit onto any bed because of its telescopic stand that is height adjustable to nearly all bed heights either raised or lowered. The universal, ball and socket join at the top of the stand connected to 5 move-able arms. These arms are used to manipulate the 3D triangular geo-desic canopy from soft curves to a vertical privacy panel that will roughly cover half of the bed horizontally or vertically.</p><br/><img src='http://i.imgur.com/IsDgeuz.png'><br/><img src='http://i.imgur.com/JVlNixi.jpg'><br/><img src='http://i.imgur.com/pJIaofl.jpg'><br/><iframe src='//player.vimeo.com/video/111326889' width='100%' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+    "email": "evangelinephillips1@gmail.com",
+    "publish": true
   },
   {
     "id": "30",
@@ -562,18 +562,18 @@
     "lastName": "Potter",
     "firstName": "Michael",
     "userPhoto": "assets/images/userPhotos/potter_michael.jpg",
-    "userPortfolio": null,
+    "userPortfolio": "http://www.behance.net/potter",
     "linkedIn": null,
-    "projectTitle": null,
+    "projectTitle": "Samson Kitchen Caddy",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder32.jpg",
+      "thumb": "assets/images/projectThumbs/potter_michael.jpg",
+      "url": "assets/images/projectImages/potter_michael.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Designed to assist in the adoption of responsible waste disposal behaviour, Samson is the perfect addition to any kitchen counter.",
+    "projectDescription": "<p>The decomposition of food waste accounts for substantial amounts of greenhouse gases produced in landfill. Additionally, a 2012-13 report revealed food waste is the single greatest component in New South Wales residents kerbside collection accounting for over 42% of the total.</p><br/><p>In support of driving organics from landfill, the NSW Government has allocated more than $466 million to increase resource recovery initiatives over the next 5 years. A high priority of this initiative is the provision of kerbside food-waste and organics bins to households for weekly collection. Kerbside collection of organics is identical to more traditional methods of recycling so the act is integrated into current behaviour. This familiarity can streamline what households need to learn in order to change their habits.</p><br/><img src='http://i452.photobucket.com/albums/qq250/orthentix/In_Use.jpg'><br/><p>There is a need for a product that provides consumers with a space considerate design solution to assist with the disposal of food waste produced in the kitchen. The goal of the Samson Kitchen Caddy is to make source-separation of food waste in the household easier to adopt through thoughtful design considerations. These considerations persuade users to keep the caddy on the kitchen counter where it acts as a visual prompt and friendly reminder to effectively source separate.</p><br/><img src='http://i452.photobucket.com/albums/qq250/orthentix/Dissmebled.jpg'><br/><img src='http://i452.photobucket.com/albums/qq250/orthentix/DSC_9529.jpg'><br/><img src='http://i452.photobucket.com/albums/qq250/orthentix/DSC_9558.jpg'><br/><img src='http://i452.photobucket.com/albums/qq250/orthentix/DSC_9429.jpg'><br/><iframe width='700' height='392' src='//www.youtube.com/embed/vNUzZPtN5Qg' frameborder='0' allowfullscreen></iframe>",
+    "email": "mick.potter@me.com",
+    "publish": true
   },
   {
     "id": "32",
@@ -581,15 +581,15 @@
     "firstName": "Antoine",
     "userPhoto": "assets/images/userPhotos/ryan_antoine.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
+    "linkedIn": "http://au.linkedin.com/pub/antoine-ryan/87/99/96/",
     "projectTitle": "Schedule Buddy",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/ryan_antoine.jpg",
       "url": "assets/images/projectImages/ryan_antoine.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": "Schedule Buddy is a hand held behavioural change tool that supports activity scheduling from hour to hour rather than day to day. The tool is a platform on which a therapist can easily tailor a constructive daily plan in a novel, functional and consistent way",
-    "projectDescription": "<strong>Problem:</strong><br/><p>Almost 50% of us will experience a mental illness within out life, and depression is a common feature of mental illness.</p><p>Depression is commonly treated using pleasurable activity scheduling but this is harder for those with a mental illness.</p><p>Schedule Buddy is a device that supports those who need help activity scheduling.</p><br/><p>Process Journal - <a href='#''>click to download</a></p><p><strong>Detailed Product Description.</strong></p><br/><br/><strong>Solution:</strong><br /><p>This is Schedule Buddy, a hand held behavioural change tool that supports activity scheduling from hour to hour rather than day to day. The tool is a platform on which a therapist can easily tailor a constructive daily plan in a novel, functional and consistent way.</p><p> {broken image} </p><strong>How to make:</strong><br /><p> {broken image} </p><p> {broken image} </p><p> {broken image} </p><p> {broken image} </p><strong>How to use:</strong><br /><p> {broken image} </p>",
+    "projectSynopsis": "Schedule buddy is a behavioural change tool. It is designed for those experiencing reduced cognitive function. It protects notes made during psychological therapy sessions. These notes become a daily schedule that a patient completes with Schedule Buddy's help.",
+    "projectDescription": "<strong>Problem:</strong><br/><p>Almost 50% of us will experience a mental illness within out life, and depression is a common feature of mental illness. Depression is commonly treated using pleasurable activity scheduling but this is harder for those with a mental illness.</p><p>Schedule Buddy is a device that supports those who need help with creating and using an activity schedule.</p><br/><p><strong>Solution:</strong><br/><p>Schedule Buddy is a hand held behavioural change tool that supports activity scheduling from hour to hour rather than day to day. The tool is a platform on which a therapist can easily tailor a constructive daily plan in a novel, functional and consistent way.</p><br/><p>Schedule Buddy serves patients as a reminder, a planning tool and a record of achievement. It also captures the valuable expertise of therapists and makes this more prominent in a patients life.</p><img src='https://dl.dropboxusercontent.com/u/37201427/End%20of%20Life.jpg'><br/><img src='https://dl.dropboxusercontent.com/u/37201427/Background.jpg'><br/><img src='https://dl.dropboxusercontent.com/u/37201427/Hero.jpg'><br/><img src='https://dl.dropboxusercontent.com/u/37201427/Daily%20use.jpg'><br/><iframe width='700' height='392' src='//www.youtube.com/embed/CnkZVi1Ao8A' frameborder='0' allowfullscreen></iframe>",
     "email": "antoine.ryan@gmail.com",
     "publish": true
   },
@@ -598,7 +598,7 @@
     "lastName": "Sadowsky",
     "firstName": "Nick",
     "userPhoto": "assets/images/userPhotos/sadowsky_nicholas.jpg",
-    "userPortfolio": "https://www.behance.net/NickSadowsky",
+    "userPortfolio": "http://www.behance.net/NickSadowsky",
     "linkedIn": null,
     "projectTitle": "Maverick",
     "projectPhoto": {
@@ -635,7 +635,7 @@
     "firstName": "Katrina",
     "userPhoto": "assets/images/userPhotos/sum_katrina.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
+    "linkedIn": "http://au.linkedin.com/pub/katrina-sum/8b/342/69a/",
     "projectTitle": "Tucker Shoe Storage System",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/sum_katrina.png",
@@ -643,7 +643,7 @@
       "alt": "Hero Image"
     },
     "projectSynopsis": "Tucker is a space saving shoe storage solution that aims to declutter a small space while still being able to see where everything is.",
-    "projectDescription": "<p>Tucker is a vertical shoe rack that allows the user to adapt it to their needs, whether they want to hide their shoes, display them or just simply get them out of the way.</p><br/><p>This shoe storage system aims to encourage people to practice good hygienic behaviours and improve current lifestyle habits by create an aesthetic clutter-free way to organise their shoe collection.</p><br/><p>No fastenings are required so no screws or finding a screw driver will never be an issue. Therefore, Tucker can be easily assembled and disassembled with just the help of a rubber mallet that will be supplied.</p><br/><p>As a modular unit, endless configurations are possible. Tucker can be customised 360 degrees depending on where it is placed and what kind of shoes are being stored.</p><br/><p>Tucker is the perfect foundation piece and by adding different attachments, it can be transformed into a multipurpose entrance way organiser.</p><br/><img src='/assets/images/projectImages/sum_katrina@2x.png'/>",
+    "projectDescription": "<p>Tucker is a vertical shoe rack that allows the user to adapt it to their needs, whether they want to hide their shoes, display them or just simply get them out of the way.</p><br/><p>This shoe storage system aims to encourage people to practice good hygienic behaviours and improve current lifestyle habits by create an aesthetic clutter-free way to organise their shoe collection.</p><br/><p>No fastenings are required so no screws or finding a screw driver will never be an issue. Therefore, Tucker can be easily assembled and disassembled with just the help of a rubber mallet that will be supplied.</p><br/><p>As a modular unit, endless configurations are possible. Tucker can be customised 360 degrees depending on where it is placed and what kind of shoes are being stored.</p><br/><p>Tucker is the perfect foundation piece and by adding different attachments, it can be transformed into a multipurpose entrance way organiser.</p><br/><img src='http://i1374.photobucket.com/albums/ag418/bykatsum/flatlay1_zps2149e066.png'/><br/><iframe src='//player.vimeo.com/video/111487978' width='700' height='393' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen>",
     "email": "k.sum@icloud.com",
     "publish": true
   },
@@ -707,17 +707,17 @@
     "firstName": "Sina",
     "userPhoto": "assets/images/userPhotos/vodjdani_sina.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": null,
+    "linkedIn": "http://au.linkedin.com/in/sinavodjdani/",
+    "projectTitle": "Maquet Organ Transporter",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder40.jpg",
-      "alt": "Hero Image"
+      "thumb": "assets/images/projectThumbs/vodjdani_sina.jpg",
+      "url": "assets/images/projectImages/vodjdani_sina.jpg",
+      "alt": "Organ Transportation- Focused On Advanced Preservation Techniques"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "The Maquet Organ Transporter is a medical product, that harnesses advanced preservation techniques to preserve a human organ whilst it is being transported. Instead of freezing the organ, the design solution pumps warm oxygenated blood through the organ to preserve it longer.",
+    "projectDescription": "<p>The Maquet Organ Transporter, tackles challenges and opportunities within the medical field of organ transportation. Since the 1960’s, procured organs have been carefully housed and transported in coolers with ice slush- freezing the organ at 4 degrees Celsius, and placing it through hypothermia. At the time of the surgery the organ is reheated and transplanted.</p><br/><p>This static preservation technique limits the number of hours an organ is viable whilst cooled. Additionally it affects the cell structure of the organ, creates a dependency upon the patient for immunosuppressive medication and places heavy stress on the surgical teams and the organ donor coordination system.</p><br/><p>In order to tackle this and Australia’s organ donor shortage- with 1600+ individuals on the waiting list each year- the Maquet Organ Transporter was born. This device allows for a human organ to be placed in a physiologically similar environment to that of the human body. Within the device, warm nutrient rich oxygenated blood is pumped in and out of the organ- heating it at a constant 37 degrees Celsius.</p><br/><p>With this dynamic preservation method, the organ is viable for a longer period of time and can be transported to further locations. Therefore instead of transporting a human organ within Sydney, it is possible to transport a heart, liver or kidney nationally and internationally.</p><br/><p>The device housing incorporates an interface that projects real-time vital information of the organ. This allows for the accompanying nurse and surgical teams to be able to track the health of the organ whilst the device is mobile. This allows the device to communicate with a smart phone application with the awaiting surgical team, to view the location of the device and the vitals of the human organ.</p><br/><br/><img src='http://s17.postimg.org/74p4vf85a/IMG_7027.jpg'>",
+    "email": "sinavodjdani@gmail.com",
+    "publish": true
   },
   {
     "id": "40",
@@ -725,7 +725,7 @@
     "firstName": "Alexander",
     "userPhoto": "assets/images/userPhotos/wong_alexander.jpg",
     "userPortfolio": null,
-    "linkedIn": "https://www.linkedin.com/pub/alexander-wong/68/176/1b",
+    "linkedIn": "http://www.linkedin.com/pub/alexander-wong/68/176/1b",
     "projectTitle": "The Task Lounge",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/wong_alexander.jpg",
@@ -743,7 +743,7 @@
     "firstName": "Francois",
     "userPhoto": "assets/images/userPhotos/wong_francois.jpg",
     "userPortfolio": null,
-    "linkedIn": "https://www.linkedin.com/pub/francois-wong-ting-fook/67/848/493",
+    "linkedIn": "http://www.linkedin.com/pub/francois-wong-ting-fook/67/848/493",
     "projectTitle": "Activate",
     "projectPhoto": {
       "thumb": "assets/images/projectThumbs/wong_francois.jpg",
