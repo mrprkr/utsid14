@@ -9,14 +9,19 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				controller: 'id14Controller'
 			})
 
-			/*.when('/other-url', {
-				templateUrl: '',
-				controller: ''
-			})*/
+			.when('/project/:id', {
+				templateUrl: 'project.html',
+				controller: 'projectController'
+			})
 
 			.otherwise({
 				redirectTo: '/'
 			});
+	}))
+
+	.controller('projectController', ng(function ($scope, $routeParams) {
+		console.log('projectController');
+		console.log($routeParams);
 	}))
 
 
@@ -31,6 +36,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				}
 			}
 			$scope.bricks = parsedData;
+
 		});
 
 		//======= SET CONFIG HERE =========
@@ -40,12 +46,10 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 		$scope.isPublic = true;
 		/*
-=======
-		$scope.isPublic = false;
->>>>>>> Stashed changes
 		if (location.hash != ""){
-	     	$scope.isPublic = true;
-		   } */
+	    	$scope.isPublic = true;
+		}
+		*/
 
 		//======= HELPER FUNCTIONS HERE =============
 
