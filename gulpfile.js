@@ -25,8 +25,10 @@ gulp.task('imagemove', ['home'], function () {
 
 gulp.task('json', ['imagemove'], function () {
     gulp.src('./src/data/data.json')
-        // .pipe(jade())
         .pipe(gulp.dest('./app/assets/data/'));
+    gulp.src('./src/projects/*.html')
+        // .pipe(jade())
+        .pipe(gulp.dest('./app/projects/'));
 });
 
 gulp.task('templates', ['json'], function () {
@@ -63,7 +65,7 @@ gulp.task('bower', function () {
 
 gulp.task('watch', function () {
     gulp.watch(
-        ['./src/html/*.html', './src/js/*.js', './src/scss/*.scss', './src/data/*.json','./bower_components'],
+        ['./src/html/*.html', './src/js/*.js', './src/scss/*.scss', './src/data/*.json','./src/projects/*.html','./bower_components'],
         ['build']
     )
 });
@@ -75,6 +77,7 @@ gulp.task('sync', function () {
         'app/assets/js/*.js',
         'app/assets/css/*.css',
         'app/assets/data/*.json'
+        'app/projects*.html'
     ];
 
     browserSync.init(files, {
