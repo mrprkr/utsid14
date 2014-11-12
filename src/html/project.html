@@ -1,1 +1,28 @@
-<h1>Project goes here...</h1>
+	
+	<div id="backButton">
+	ID14 / <a href="#home" ng-click="showProject()"> All Projects</a> / <a href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a>
+	</div>
+	
+	<div class="projectPanelHeroContainer">
+		<div class="projectPanelHero" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}">
+			<img ng-src="{{cardSelected.projectPhoto.url}}" class="heroPhoto">
+		</div>
+	</div>
+	
+	<div class="projectContact content">
+		<div id="projectUserPhoto">
+			<img id="projectUserPhoto" ng-src="{{cardSelected.userPhoto}}" width="100" height="100">
+		</div>
+		<div id="projectUserDetails">
+		<p><strong>{{cardSelected.firstName}} {{cardSelected.lastName}}</strong></p>
+		<p><a href="mailto:{{cardSelected.email}}">{{cardSelected.email}}</a></p>
+		<p ng-show="showingPortfolio"><a href="{{cardSelected.userPortfolio}}" target="_blank">See {{cardSelected.firstName}}'s Portfolio</a></p>
+		<p ng-show="showingLinkedIn"><a href="{{cardSelected.linkedIn}}" target="_blank">Connect on LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="projectContent content">
+		{{cardSelected.projectTitle}}
+		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
+		<br/><br/>
+		<a href="#home">Back to all projects</a>
+	</div>

@@ -1,5 +1,5 @@
-<div class="card" ng-click="setCardSelected(brick)">
-
+<div class="card">
+<a ng-href="#project/{{getId(brick)}}">
 	<div class="contact">
 		<div class="contactPhotoContainer">
 			<img ng-src="{{brick.userPhoto}}" class="contactPhotoContainer">
@@ -23,9 +23,9 @@
 
 		<div class="actions">
 			<hr>
-			<a ng-bind="setProjectName(brick.firstName)"></a>
+			<a ng-href="#project/{{getId(brick)}}" ng-bind="setProjectName(brick.firstName)"></a>
 			</div>
 		</div>
-
+</a>
 </div>
 

@@ -6,7 +6,8 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		$routeProvider
 			.when('/', {
 				templateUrl: 'home.html',
-				controller: 'id14Controller'
+				controller: 'id14Controller',
+				reloadOnSearch: false
 			})
 
 			.when('/project/:id', {
@@ -19,13 +20,41 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			});
 	}))
 
-	.controller('projectController', ng(function ($scope, $routeParams) {
-		console.log('projectController');
-		console.log($routeParams);
+	.controller('projectController', ng(function ($scope, $routeParams, $http, $sce, $location) {
+		$http.get('assets/data/data.json').success(function(data){
+			var parsedData = [];
+			for(x in data){
+			if(data[x].publish === true){
+				parsedData.push(data[x]);
+				}
+			}
+			//console.log($routeParams);
+			var brickId = $routeParams.id;
+			$scope.bricks = parsedData;
+			$scope.cardSelected = $scope.bricks[brickId];
+
+			if($scope.cardSelected.userPortfolio != null){
+				$scope.showingPortfolio = true;
+			}
+			else{
+				$scope.showingPortfolio = false;
+			}
+			// //if they don't have a portfolio, but do have a linkedIn
+			if($scope.cardSelected.linkedIn != null){
+				$scope.showingLinkedIn = true;
+			 }
+			else{
+				$scope.showingLinkedIn = false;
+			}
+		});
+
+		$scope.toTrusted = function(html){
+			return $sce.trustAsHtml(html);
+		}
 	}))
 
 
-	.controller('id14Controller',  ng(function($scope, $http, $sce, $location){
+	.controller('id14Controller',  ng(function ($scope, $http, $sce, $location){
 
 		//request the data from the JSON file, load it into $scope.bricks
 		$http.get('assets/data/data.json').success(function(data){
@@ -36,7 +65,6 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				}
 			}
 			$scope.bricks = parsedData;
-
 		});
 
 		//======= SET CONFIG HERE =========
@@ -45,11 +73,11 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		//if the URL contains a direct link the site will load the preview view.
 
 		$scope.isPublic = true;
-		/*
-		if (location.hash != ""){
+
+		if (location.hash === "preview"){
 	    	$scope.isPublic = true;
 		}
-		*/
+
 
 		//======= HELPER FUNCTIONS HERE =============
 
@@ -68,27 +96,10 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		//push the card selected to thelightbox
 		$scope.cardSelected = null;
 		
-		$scope.setCardSelected = function(value){
-			$scope.cardSelected = value;
-			location.hash = $scope.bricks.indexOf(value);
-			
-			if($scope.cardSelected.userPortfolio != null){
-				$scope.showingPortfolio = true;
-			}
-			else{
-				$scope.showingPortfolio = false;
-			}
-			// //if they don't have a portfolio, but do have a linkedIn
-			if($scope.cardSelected.linkedIn != null){
-				$scope.showingLinkedIn = true;
-			 }
-			else{
-				$scope.showingLinkedIn = false;
-			}
-			// else{
-			// 	$scope.showingPortfolio = false;
-			// 	$scope.showingLinkedIn = false;
-			// }
+		
+
+		$scope.getId = function(value){
+			return $scope.bricks.indexOf(value);
 		}
 
 		//Event information tray state
@@ -111,9 +122,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		}
 
 		//Converts plain text to HTML
-		$scope.toTrusted = function(html){
-			return $sce.trustAsHtml(html);
-		}
+
 	
 		//pass in an ID to load that project up
 		$scope.loadProject= function(value){
@@ -139,7 +148,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=1200;
+		var delay=1000;
 		setTimeout(function(){
 
 		var $imgLoad = $('.brickContainer');
