@@ -1,6 +1,27 @@
 // initialise angular
-angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngRetina'])
+angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngRetina', 'ngRoute'])
+
+	.config(ng(function config($routeProvider) {
+
+		$routeProvider
+			.when('/', {
+				templateUrl: 'home.html',
+				controller: 'id14Controller'
+			})
+
+			/*.when('/other-url', {
+				templateUrl: '',
+				controller: ''
+			})*/
+
+			.otherwise({
+				redirectTo: '/'
+			});
+	}))
+
+
 	.controller('id14Controller',  ng(function($scope, $http, $sce, $location){
+
 		//request the data from the JSON file, load it into $scope.bricks
 		$http.get('assets/data/data.json').success(function(data){
 			var parsedData = [];
@@ -16,10 +37,10 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	
 		//if the URL contains a direct link the site will load the preview view.
-		$scope.isPublic = true;
+		/*$scope.isPublic = true;
 		if (location.hash != ""){
 	     	$scope.isPublic = true;
-		   }
+		   } */
 
 		//======= HELPER FUNCTIONS HERE =============
 
@@ -112,24 +133,25 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	$scope.loadProjects = function(){
 		var delay=1200;
 		setTimeout(function(){
+
 		var $imgLoad = $('.brickContainer');
 		$imgLoad.imagesLoaded(function(){
 				document.getElementById("projectLoader").className = "hidden";
 				document.getElementById("projects").className = "projectContainer show";
 				$scope.shuffle();
-				$scope.checkURL();
+				//$scope.checkURL();
 			});
 		},delay);
-	}
+	};
 
-	$scope.checkURL = function(){
+	/*$scope.checkURL = function(){
 		//detect a hash link and set the integer into a variable.
 		if(location.hash != "" && location.hash !="#/preview"){
 			urlHash = location.hash;
 			urlHash = urlHash.replace('#/', '');
 			$scope.loadProject(urlHash);
 		}
-	}
+	}*/
 
 	//Reaize function, re-layout if the window is re-sized.
 	var globalResizeTimer = null;

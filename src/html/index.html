@@ -34,14 +34,15 @@
 	<script src="assets/js/lib/angular-images-loaded/angular-images-loaded.js"></script>
 	<script src="assets/js/lib/angular-retina/dist/angular-retina.min.js"></script>
 	<script src="assets/js/lib/angular-animate/angular-animate.min.js"></script>
-	
+	<script src="assets/js/lib/angular-route/angular-route.min.js"></script>
+
 	<!-- APP -->
 	<script type="text/javascript" src="assets/js/app.js"></script>
 
 
 </head>
 
-<body ng-app="id14App" ng-controller="id14Controller">
+<body ng-app="id14App">
 
 <!-- <nav class="navBar hiddenNav">
 <div ng-hide="showingProject" class="animate-fade">
@@ -56,58 +57,9 @@
 	</div>
 </nav> -->
 
+<ng-view></ng-view>
 
 
-<div class="infoContainer">
-	<img style="margin:25px" src="assets/images/global/logo.jpg" alt="ID14 logo"/>
-	<p>This year's students have assembled a wide variety of service and product designs; with work ranging from furniture, homewares, lighting, web, and wearables, this exhibition showcases the talent and diversity of the 2014 graduates. </p><br/><p> See the students and their work at the <span id="link" ng-click="showInfo()"> Industrial Design Graduate Show</span>.</p>
-</div>
-
-<div class="eventContainer animate-slide" ng-if="showingInfo">
-	<a name="info"></a>
-	 <a href="https://www.google.com.au/maps/place/University+of+Technology,+Sydney" target ="_blank"><div class="map"> <img class="map" ng-src="assets/images/global/uts_map.jpg" alt="uts_map"></div></a>
-	<div class="eventInfo">
-		<p> <strong>Industrial Design Graduate Show </strong></p>
-		<p> UTS Foyer - Level 4, Tower Building</p>
-		<br/>
-		<p><span id="openingNight"> Tue 25th November, 6pm to 9pm (Opening Night)<span></p>
-		<p> Wed 26th November</p>
-		<p> Thu 27th November</p>
-		<br/> 
-		 <p> <a href="https://www.google.com.au/maps/place/University+of+Technology,+Sydney" target="_blank">Directions to UTS</a></p>
-		 <p><a href="assets/images/global/event.ics" target="_blank">+ Add to calendar </a></p>
-		
-	</div>
-</div>
-
-<div class="loader" ng-hide="isPublic">Student projects will be avaliable soon<br/><hr></div>
-
-<!-- THIS CONTENT ONLY VIEWABLE IN PREVIEW MODE -->
-<div ng-show="isPublic">
-	<div class="loader" id="projectLoader"> Loading Projects... <br/><hr></div>
-	<div id="projects" class="projectContainer hidden">
-		<div id="sort-options" class="brickContainer">		
-				<!-- SORT OPTIONS-->				
-				<div class="sort-group" opt-kind="" ok-key="sortBy">
-					<div ng-include=" 'sortOptions.html' "></div>
-			    </div>
-		</div>
-
-		<!-- PROJECTS -->
-		<div isotope-container="isotope-container" class="brickContainer">
-			<div ng-repeat="brick in bricks"  isotope-item="isotope-item item">
-					<div ng-include="'cardTemplate.html' "></div>
-			</div>
-		</div>
-
-	<div class="sponsors">
-		<a name="sponsors"></a>
-			<p>A special thank you to our event sponsors:</p>
-			<br/>
-			<a href="http://uts.edu.au" target="_blank"><img ng-src="assets/images/global/UTS_logo.jpg" alt="UTS"/></a>
-		</div>
-	</div>
-</div>
 
 <footer>
 	<p>Designed &amp; developed by <a href="#" target="_blank">Michael Parker</a></p>
