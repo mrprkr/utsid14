@@ -77,7 +77,7 @@ gulp.task('sync', function () {
         'app/assets/js/*.js',
         'app/assets/css/*.css',
         'app/assets/data/*.json',
-        'app/projects*.html'
+        'app/projects/*.html'
     ];
 
     browserSync.init(files, {

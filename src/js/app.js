@@ -95,7 +95,6 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			if($scope.showingProject === true){
 				$('nav').removeClass('hiddenNav');
 				$('body').addClass('noScroll');
-				document.getElementById("project-panel").addEventListener('touchstart', function(event){});
 			}
 			else{
 				$('body').removeClass('noScroll');
