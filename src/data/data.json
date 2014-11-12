@@ -108,24 +108,6 @@
     "publish": true
   },
   {
-    "id": "6",
-    "lastName": "Connellan",
-    "firstName": "Adam",
-    "userPhoto": "assets/images/userPhotos/connellan_adam.jpg",
-    "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": null,
-    "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder7.jpg",
-      "alt": "Hero Image"
-    },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
-  },
-  {
     "id": "7",
     "lastName": "Davies",
     "firstName": "Sam",
@@ -668,20 +650,20 @@
   {
     "id": "37",
     "lastName": "Tran",
-    "firstName": "Liz",
+    "firstName": "Tram",
     "userPhoto": "assets/images/userPhotos/tran_tram.jpg",
     "userPortfolio": null,
-    "linkedIn": null,
-    "projectTitle": null,
+    "linkedIn": "http://au.linkedin.com/pub/tram-tran/73/336/820/",
+    "projectTitle": "Sports Plus",
     "projectPhoto": {
-      "thumb": "assets/images/projectThumbs/placeholder1.jpg",
-      "url": "assets/images/projectImages/placeholder38.jpg",
+      "thumb": "assets/images/projectThumbs/tran_tram.jpg",
+      "url": "assets/images/projectImages/tran_tram.jpg",
       "alt": "Hero Image"
     },
-    "projectSynopsis": null,
-    "projectDescription": null,
-    "email": "placeholder@student.uts.edu.au",
-    "publish": false
+    "projectSynopsis": "Sports Plus is a first aid kit designed specifically for administering of on field sport-related injuries in high school environment. The design aims at improving first aiders (PE teachers, sports masters) work efficiency and eliminating any possible delay in communication with other required personnel.",
+    "projectDescription": "<p>Injury has a major impact on the health and well-being of young generations. In Australia, it is the leading cause of death among young people aged 12-24 years - accounting for more deaths than all other causes of death combines and can leave many with serious temporary physical disability or permanent conditions. School aged children and adolescent incur the highest rate of injuries requiring treatment and as a consequence their daily participation in studying being affected. Among this age group almost quarter of all injury- related hospital admissions and 20 per cent of emergency department presentations occur in the school environment.</p><br/><p>The project revolves around problem with delivery of care facilities at high school’s sport grounds. The project aim is to investigate into physical education activities that cause most injuries to students and methods of administering of such cases. While promoting sports activities is essential as part of high school academic curriculum, promoting safety and efficiency of injuries administration also contribute to school reputation and professionalism.</p><br/><p>The solution as responding to existing issue is a first aid kit featuring new method of organising the supplies, plus an electronic system allowing users to view first aid instruction in a informative way by interacting with integrated touch screen. The kit also enables contacting with the emergency and the school’s management, recording and transferring the information regarding injury cases. </p><br/><p>The project aims at creating solution utilising fully developed technology to result in a concept that could be implemented immediately.</p><br/><img src='assets/images/projectImages/tran_tram_project1.jpg'><br/><img src='assets/images/projectImages/tran_tram_project2.jpg'><br/><img src='assets/images/projectImages/tran_tram_project3.jpg'><br/><iframe width='700' height='393' src='//www.youtube.com/embed/kzZHv9zJqNE' frameborder='0'; allowfullscreen;>",
+    "email": "tran.hn.tram@gmail.com",
+    "publish": true
   },
   {
     "id": "38",
