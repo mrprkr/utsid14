@@ -23,4 +23,4 @@ $ gulp
 
 #### Known Bugs
 
-no known issues
+Issue with scrolling on project page for iOS devices
