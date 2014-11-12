@@ -37,7 +37,12 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 	
 		//if the URL contains a direct link the site will load the preview view.
-		/*$scope.isPublic = true;
+
+		$scope.isPublic = true;
+		/*
+=======
+		$scope.isPublic = false;
+>>>>>>> Stashed changes
 		if (location.hash != ""){
 	     	$scope.isPublic = true;
 		   } */
