@@ -55,9 +55,15 @@ nav a{
 #backButton{
 	width: 100%;
 	background-color: rgba(255,255,255,0.9);
-	padding: 10px;
 	font-size: 0.8em;
+	line-height: 40px;
+	text-align: middle;
+	height: 40px;
+/*	padding-left: 10px;*/
+}
 
+#backButtonContainer {
+	margin: 20px;
 }
 
 .navContent {
@@ -397,18 +403,20 @@ iframe {
 .projectPanelHero {
 	position: static;
 	height: 280px;
-	width: 101%;
-	display: block;
-	margin-left: -2px;
-	background-position: center;
-	background-size: cover;
-	-webkit-filter: blur(4px);
-	filter: blur(4px);
-}
-
-.heroPhoto {
 	width: 100%;
-	margin-top: -100px;
+	display: block;
+
+}
+.heroPhotoHelper{
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+}
+.heroPhoto {
+	width: 105%;
+	-webkit-filter: blur(15px);
+	filter: blur(15px);
+	margin-left: -2%;
 }
 
 .back {

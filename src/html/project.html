@@ -1,10 +1,9 @@
+<div id="backButton">
+<span id="backButtonContainer">ID14 / <a ng-href="#home" ng-click="showProject()"> All Projects</a> / <a ng-href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a>
+</div>
 	
-	<div id="backButton">
-	ID14 / <a ng-href="#home" ng-click="showProject()"> All Projects</a> / <a ng-href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a>
-	</div>
-	
-	<div class="projectPanelHeroContainer">
-		<div class="projectPanelHero" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}">
+	<div class="projectPanelHeroContainer" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}">
+		<div class="projectPanelHero" >
 			<img ng-src="{{cardSelected.projectPhoto.url}}" class="heroPhoto">
 		</div>
 	</div>

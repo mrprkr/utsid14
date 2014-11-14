@@ -15,7 +15,10 @@ var client = contentful.createClient({
 
 client.entries({}, function(err, entries) {
   if (err) { console.log(err); return; }
-  console.log(entries);
+  for(x in entries){
+  	console.log(entries[x].fields);
+  }
+  
 });
 
 
