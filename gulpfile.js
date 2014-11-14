@@ -26,9 +26,6 @@ gulp.task('imagemove', ['home'], function () {
 gulp.task('json', ['imagemove'], function () {
     gulp.src('./src/data/data.json')
         .pipe(gulp.dest('./app/assets/data/'));
-    gulp.src('./src/projects/*.html')
-        // .pipe(jade())
-        .pipe(gulp.dest('./app/projects/'));
 });
 
 gulp.task('templates', ['json'], function () {

@@ -19,7 +19,8 @@
     "angular-images-loaded": "~0.0.5",
     "angular-animate": "~1.2.26",
     "angular-retina": "~0.3.1",
-    "angular-route": "1.2.25"
+    "angular-route": "1.2.25",
+    "ng-contentful": "~0.1.2"
   },
   "devDependencies": {
     "normalize-css": "~3.0.1"

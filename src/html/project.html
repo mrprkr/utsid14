@@ -8,7 +8,9 @@
 			<img ng-src="{{cardSelected.projectPhoto.url}}" class="heroPhoto">
 		</div>
 	</div>
-	
+
+	<div class="content"><span id="projectNav">
+	<a href="#project/{{getPrevId(cardSelected)}}">Previous Project</a> | <a href="#project/{{getNextId(cardSelected)}}">Next Project</a></span></div>
 	<div class="projectContact content">
 		<div id="projectUserPhoto">
 			<img id="projectUserPhoto" ng-src="{{cardSelected.userPhoto}}" width="100" height="100">
@@ -24,5 +26,6 @@
 		{{cardSelected.projectTitle}}
 		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
 		<br/><br/>
-		<a href="#home">Back to all projects</a>
+		<div class="content"><span id="projectNav">
+		<a href="#project/{{getPrevId(cardSelected)}}">Previous Project</a> | <a href="#project/{{getNextId(cardSelected)}}">Next Project</a></span></div>
 	</div>

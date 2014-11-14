@@ -186,7 +186,6 @@ hr {
 	border-radius: 8px;
 	width: 320px;
 	margin:20px;
-	cursor: pointer;
 	box-shadow: 0px 2px 4px #AAA;
 	/*padding: 10px;*/
 }
@@ -340,72 +339,7 @@ footer p {
 	font-weight: 400 !important;
 }
 
-/*.lightbox {
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	position: fixed;
-	display: block;
-	z-index: 4;
-	background-color: rgba(250, 250, 250, 0.70);
-	overflow: hidden;
-}
 
-.lightboxBackground {
-	display: block;
-	position: absolute;
-	max-width: 700px;
-	width: 95%;
-	height: 85%;
-	margin-top: 2.5%;
-	left:0;
-	right: 0;
-	background-color: #FFF;
-	border-radius: 5px;
-	margin-left: auto;
-	margin-right: auto;
-	box-shadow: 1px 0px 10px #888;
-	z-index: 10 !important;
-	overflow-y:scroll;
-	overflow-x:hidden;
-	padding: 20px;
-	-webkit-overflow-scrolling: touch;
-}
-
-#close {
-	display: block;
-	position: static;
-	font-size: 0.8em;
-}
-
-#lightboxHero {
-	max-width: 100%;
-	height: 300px;
-	display: block;
-	background-color: #444;
-	background-size: cover;
-	background-position: center;
-}
-
-.lightboxContact {
-	margin-bottom: 2em;
-}
-
-#lightboxUserPhoto {
-	display: inline-block;
-	height: 110px;
-	width: 110px;
-	background-color: #444;
-	border-radius: 50%;
-	background-size: cover;
-}
-
-#lightboxUserDetails {
-	display: inline-block;
-	position: absolute;
-	padding: 20px;
-}*/
 
 iframe {
 	width: 100% !important;
@@ -514,6 +448,11 @@ iframe {
 	position: absolute;
 	margin-left: 20px;
 }
+
+#projectNav {
+	float: right;
+}
+
 .noScroll {
 	position: static;
 	overflow: hidden;

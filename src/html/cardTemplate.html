@@ -1,17 +1,15 @@
 <div class="card">
-<a ng-href="#project/{{getId(brick)}}">
+	<a ng-href="#project/{{getId(brick)}}">
 	<div class="contact">
 		<div class="contactPhotoContainer">
 			<img ng-src="{{brick.userPhoto}}" class="contactPhotoContainer">
 		</div>
 		<div class="name"> 
-			<a>{{brick.firstName}} {{brick.lastName}}</a> 
+			<a ng-href="#project/{{getId(brick)}}">{{brick.firstName}} {{brick.lastName}}</a> 
 			</div>
 		</div>
-	<div ng-show="isPublished(brick)">
 	<div class="projectPhotoContainer images-loaded"> 
 		<img class="projectPhoto" ng-src="{{brick.projectPhoto.thumb}}">
-	</div>
 	</div>
 	<div class="project">
 		<div class="projectTitle">
@@ -26,6 +24,5 @@
 			<a ng-href="#project/{{getId(brick)}}" ng-bind="setProjectName(brick.firstName)"></a>
 			</div>
 		</div>
-</a>
+		</a>
 </div>
-
