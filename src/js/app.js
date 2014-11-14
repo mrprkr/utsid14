@@ -15,7 +15,7 @@ var client = contentful.createClient({
 
 client.entries({}, function(err, entries) {
   if (err) { console.log(err); return; }
-  // console.log(entries);
+  console.log(entries);
 });
 
 
@@ -165,7 +165,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=400;
+		var delay=300;
 		setTimeout(function(){
 
 		var $imgLoad = $('.brickContainer');

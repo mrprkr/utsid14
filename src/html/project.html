@@ -9,7 +9,7 @@
 		</div>
 	</div>
 
-	<div class="content"><span id="projectNav">
+	<div class="content projectNav"><span class="projectNav" id="projectNav">
 	<a ng-href="#project/{{getPrevId()}}">Previous Project</a> | <a ng-href="#project/{{getNextId()}}">Next Project</a></span></div>
 	<div class="projectContact content">
 		<div id="projectUserPhoto">
@@ -26,6 +26,6 @@
 		{{cardSelected.projectTitle}}
 		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
 		<br/><br/>
-		<div class="content"><span id="projectNav">
-		<a ng-href="#project/{{getPrevId()}}">Previous Project</a> | <a ng-href="#project/{{getNextId()}}">Next Project</a></span></div>
+		<div class="content projectNav"><a ng-href="#home" ng-click="showProject()"> All Projects</a><span id="projectNav">
+		<a ng-href="#project/{{getPrevId()}}">Previous Project</a> | <a ng-href="#project/{{getNextId()}}">Next Project</a></span><br/></div>
 	</div>
