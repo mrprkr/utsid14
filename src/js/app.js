@@ -1,3 +1,4 @@
+
 var client = contentful.createClient({
   // ID of Space
   space: 'egxvths7m3g5',
@@ -14,8 +15,10 @@ var client = contentful.createClient({
 
 client.entries({}, function(err, entries) {
   if (err) { console.log(err); return; }
-  console.log(entries);
+  // console.log(entries);
 });
+
+
 
 // initialise angular
 angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngRetina', 'ngRoute', 'ng-contentful'])
@@ -32,11 +35,11 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				templateUrl: 'project.html',
 				controller: 'projectController'
 			})
-
 			.otherwise({
 				redirectTo: '/'
 			});
 	}))
+
 
 	.controller('projectController', ng(function ($scope, $routeParams, $http, $sce, $location) {
 		$http.get('assets/data/data.json').success(function(data){
@@ -48,8 +51,23 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			}
 			//console.log($routeParams);
 			var brickId = $routeParams.id;
+
+			//check that the project is vald
+			if(parseInt(brickId) >= parsedData.length){
+				console.log(brickId+" is not a project, re-direct to homepage");
+				$location.path('/');
+			}
+
+			$scope.brickId = brickId;
 			$scope.bricks = parsedData;
+			$scope.brickLength = $scope.bricks.length;
 			$scope.cardSelected = $scope.bricks[brickId];
+
+			//Check that the card was loaded otherwise redirect to the home page
+			if($scope.cardSelected === undefined){
+				console.log($routeParams.id+" is not a project, re-direct to homepage");
+				$location.path('/');
+			}
 
 			if($scope.cardSelected.userPortfolio != null){
 				$scope.showingPortfolio = true;
@@ -70,41 +88,28 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			return $sce.trustAsHtml(html);
 		}
 
-		$scope.getNextId = function(value){
-			var nextId = $scope.bricks.indexOf(value);
-			nextId += 1;
-			if(nextId === $scope.bricks.length){
+		$scope.getNextId = function(){
+			var thisId = parseInt($routeParams.id);
+			var nextId = thisId+1;
+			if(nextId === $scope.brickLength){
 				nextId = 0;
 			}
 			return nextId;
 		}
 
-		$scope.getPrevId = function(value){
-			var nextId = $scope.bricks.indexOf(value);
-			nextId -= 1;
-			if(nextId < 0){
-				nextId = ($scope.bricks.length)-1;
+		$scope.getPrevId = function(){
+			var thisId = parseInt($routeParams.id);
+			var prevId = thisId -= 1;
+			if(prevId < 0){
+				prevId = ($scope.brickLength)-1;
 			}
-			return nextId;
-		}
-
-		$scope.nextProjectId = function(){
-			var currentId = $scope.bricks.indexOf($scope.cardSelected);
-			if(currentId < $scope.bricks.length){
-				return currentId+=1;
-			}
-			else {
-				return 0;
-			}
+			return prevId;
 		}
 	}))
 
 
 	.controller('id14Controller',  ng(function ($scope, $http, $sce, $location){
-		if(localStorage.projectData != undefined){
-
-		}
-		//request the data from the JSON file, load it into $scope.bricks
+				//request the data from the JSON file, load it into $scope.bricks
 		$http.get('assets/data/data.json').success(function(data){
 			var parsedData = [];
 			for(x in data){
@@ -113,10 +118,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				}
 			}		
 			$scope.bricks = parsedData;
-			var projectData = JSON.stringify(parsedData);
-			localStorage.setItem('projectData', projectData);	
 		});
-
 		//======= HELPER FUNCTIONS HERE =============
 
 		//isotope layout and shuffle
@@ -163,7 +165,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=200;
+		var delay=400;
 		setTimeout(function(){
 
 		var $imgLoad = $('.brickContainer');
