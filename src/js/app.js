@@ -13,13 +13,6 @@ var client = contentful.createClient({
   host: 'cdn.contentful.com'
 });
 
-client.entries({}, function(err, entries) {
-  if (err) { console.log(err); return; }
-  for(x in entries){
-  	console.log(entries[x].fields);
-  }
-  
-});
 
 
 
@@ -45,46 +38,65 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 
 	.controller('projectController', ng(function ($scope, $routeParams, $http, $sce, $location) {
-		$http.get('assets/data/data.json').success(function(data){
-			var parsedData = [];
-			for(x in data){
-			if(data[x].publish === true){
-				parsedData.push(data[x]);
-				}
-			}
+		// $http.get('assets/data/data.json').success(function(data){
+		// 	var parsedData = [];
+		// 	for(x in data){
+		// 	if(data[x].publish === true){
+		// 		parsedData.push(data[x]);
+		// 		}
+		// 	}
+
+		// 	)};
+		var parsedData = [];
+			client.entries({}, function(err, entries) {
+			 if (err) { console.log(err); return; }
+			  for(x in entries){
+			  	parsedData.push(entries[x].fields);
+			  	// console.log(entries[x].fields);
+			  }
+			  $scope.bricks = parsedData;
+			  console.log($scope.bricks.length+" bricks loaded");
+
+			
 			//console.log($routeParams);
 			var brickId = $routeParams.id;
-
+			$scope.brickLength = $scope.bricks.length;
 			//check that the project is vald
-			if(parseInt(brickId) >= parsedData.length){
+
+			if(parseInt(brickId) >= $scope.bricks.length){
 				console.log(brickId+" is not a project, re-direct to homepage");
 				$location.path('/');
 			}
 
-			$scope.brickId = brickId;
-			$scope.bricks = parsedData;
-			$scope.brickLength = $scope.bricks.length;
-			$scope.cardSelected = $scope.bricks[brickId];
+			var cardSelected = $scope.bricks[brickId];
+			// console.log(cardSelected);
+			
+			$scope.$apply(function() {
+				$scope.cardSelected = cardSelected;
+				$scope.projectLoaded = true;
+
+				if($scope.cardSelected.userPortfolio != null){
+					$scope.showingPortfolio = true;
+				}
+				else{
+					$scope.showingPortfolio = false;
+				}
+				// //if they don't have a portfolio, but do have a linkedIn
+				if($scope.cardSelected.linkedIn != null){
+					$scope.showingLinkedIn = true;
+				 }
+				else{
+					$scope.showingLinkedIn = false;
+				}
+			});
 
 			//Check that the card was loaded otherwise redirect to the home page
-			if($scope.cardSelected === undefined){
-				console.log($routeParams.id+" is not a project, re-direct to homepage");
-				$location.path('/');
-			}
+			// if($scope.cardSelected === undefined){
+			// 	console.log($routeParams.id+" is not a project, re-direct to homepage");
+			// 	$location.path('/');
+			// }
 
-			if($scope.cardSelected.userPortfolio != null){
-				$scope.showingPortfolio = true;
-			}
-			else{
-				$scope.showingPortfolio = false;
-			}
-			// //if they don't have a portfolio, but do have a linkedIn
-			if($scope.cardSelected.linkedIn != null){
-				$scope.showingLinkedIn = true;
-			 }
-			else{
-				$scope.showingLinkedIn = false;
-			}
+
 		});
 
 		$scope.toTrusted = function(html){
@@ -94,7 +106,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		$scope.getNextId = function(){
 			var thisId = parseInt($routeParams.id);
 			var nextId = thisId+1;
-			if(nextId === $scope.brickLength){
+			if(nextId >= $scope.brickLength){
 				nextId = 0;
 			}
 			return nextId;
@@ -112,16 +124,34 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 
 	.controller('id14Controller',  ng(function ($scope, $http, $sce, $location){
-				//request the data from the JSON file, load it into $scope.bricks
-		$http.get('assets/data/data.json').success(function(data){
-			var parsedData = [];
-			for(x in data){
-			if(data[x].publish === true){
-				parsedData.push(data[x]);
-				}
-			}		
-			$scope.bricks = parsedData;
+	//get the content from the CMS
+	var bricks = [];
+		client.entries({}, function(err, entries) {
+		 if (err) { console.log(err); return; }
+		  for(x in entries){
+		  	bricks.push(entries[x].fields);
+		  	// console.log(entries[x].fields);
+		  }
+		  // console.log(bricks.length+" bricks loaded");
+		
+		$scope.$apply(function(){
+			$scope.bricks = bricks;
+			$scope.loadProjects();
+			})
 		});
+
+
+
+		//request the data from the JSON file, load it into $scope.bricks
+		// $http.get('assets/data/data.json').success(function(data){
+		// 	// var parsedData = [];
+		// 	for(x in data){
+		// 	if(data[x].publish === true){
+		// 		parsedData.push(data[x]);
+		// 		}
+		// 	}		
+			
+		// });
 		//======= HELPER FUNCTIONS HERE =============
 
 		//isotope layout and shuffle
@@ -134,6 +164,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 
 		$scope.getId = function(value){
 			return $scope.bricks.indexOf(value);
+			console.log($scope.bricks.indexOf(value));
 		}
 
 		//Event information tray state
@@ -168,7 +199,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//======== LAYOUT FUNCTIONS =========
 	//sets up the projects when images are loaded
 	$scope.loadProjects = function(){
-		var delay=300;
+		var delay=800;
 		setTimeout(function(){
 
 		var $imgLoad = $('.brickContainer');
@@ -176,6 +207,8 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				document.getElementById("projectLoader").className = "hidden";
 				document.getElementById("projects").className = "projectContainer show";
 				$scope.shuffle();
+				$scope.layout();
+				// console.log("isotope has layed out");
 			});
 		},delay);
 	};
@@ -189,9 +222,8 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	    }, 200);
 		})
 
-
 	//runs the project setup once the code has loaded
-	$scope.loadProjects();
+	
 }));
 
 

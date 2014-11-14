@@ -1,10 +1,11 @@
 <div id="backButton">
 <span id="backButtonContainer">ID14 / <a ng-href="#home" ng-click="showProject()"> All Projects</a> / <a ng-href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a>
 </div>
-	
-	<div class="projectPanelHeroContainer" ng-style="{'background-image':'url({{cardSelected.projectPhoto.url}})'}">
+
+<div ng-show="projectLoaded" class="animate-fade">
+	<div class="projectPanelHeroContainer" ng-style="{'background-image':'url({{cardSelected.projectImage}})'}">
 		<div class="projectPanelHero" >
-			<img ng-src="{{cardSelected.projectPhoto.url}}" class="heroPhoto">
+			<img ng-src="{{cardSelected.projectImage}}" class="heroPhoto">
 		</div>
 	</div>
 
@@ -25,6 +26,7 @@
 		{{cardSelected.projectTitle}}
 		<p ng-bind-html="toTrusted(cardSelected.projectDescription)"></p>
 		<br/><br/>
-		<div class="content projectNav"><a ng-href="#home" ng-click="showProject()"> All Projects</a><span id="projectNav">
-		<a ng-href="#project/{{getPrevId()}}">Previous Project</a> | <a ng-href="#project/{{getNextId()}}">Next Project</a></span><br/></div>
 	</div>
+	<div class="content projectNav"><a ng-href="#home" ng-click="showProject()"> All Projects</a><span id="projectNav">
+		<a ng-href="#project/{{getPrevId()}}">Previous Project</a> | <a ng-href="#project/{{getNextId()}}">Next Project</a></span><br/></div>
+</div>
