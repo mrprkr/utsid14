@@ -74,19 +74,21 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 				$scope.cardSelected = cardSelected;
 				$scope.projectLoaded = true;
 
-				if($scope.cardSelected.userPortfolio != null){
-					$scope.showingPortfolio = true;
-				}
-				else{
-					$scope.showingPortfolio = false;
-				}
-				// //if they don't have a portfolio, but do have a linkedIn
 				if($scope.cardSelected.linkedIn != null){
 					$scope.showingLinkedIn = true;
 				 }
 				else{
 					$scope.showingLinkedIn = false;
 				}
+
+				if($scope.cardSelected.userPortfolio != null){
+					$scope.showingPortfolio = true;
+					$scope.showingLinkedIn = false;
+				}
+				else{
+					$scope.showingPortfolio = false;
+				}
+				// //if they don't have a portfolio, but do have a linkedIn
 			});
 
 			//Check that the card was loaded otherwise redirect to the home page
@@ -128,12 +130,11 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	//get the content from the CMS
 	var bricks = [];
 		client.entries({
-			// 'content_type': 'student_project'
 		}, function(err, entries) {
 		 if (err) { console.log(err); return; }
 		  for(x in entries){
 		  	bricks.push(entries[x].fields);
-		  	// console.log(entries[x].fields);
+		  	//console.log(entries[x].fields);
 		  }
 		  // console.log(bricks.length+" bricks loaded");
 		
