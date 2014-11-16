@@ -1,8 +1,8 @@
 <div id="backButton">
-<span id="backButtonContainer">ID14 / <a ng-href="#home" ng-click="showProject()"> All Projects</a> / <a ng-href="#">{{cardSelected.firstName}} {{cardSelected.lastName}}</a>
+<span id="backButtonContainer">ID14 / <a ng-href="#home"> All Projects</a> / <a>{{cardSelected.firstName}} {{cardSelected.lastName}}</a></span>
 </div>
 
-<div ng-show="projectLoaded" class="animate-fade">
+<div ng-if="projectLoaded" class="projectDetail animate-slide">
 	<div class="projectPanelHeroContainer" ng-style="{'background-image':'url({{cardSelected.projectImage}})'}">
 		<div class="projectPanelHero" >
 			<img ng-src="{{cardSelected.projectImage}}" class="heroPhoto">

@@ -36,7 +36,6 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			});
 	}))
 
-
 	.controller('projectController', ng(function ($scope, $routeParams, $http, $sce, $location) {
 		// $http.get('assets/data/data.json').success(function(data){
 		// 	var parsedData = [];
@@ -52,10 +51,10 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			 if (err) { console.log(err); return; }
 			  for(x in entries){
 			  	parsedData.push(entries[x].fields);
-			  	// console.log(entries[x].fields);
+			  	//console.log(entries[x].fields);
 			  }
 			  $scope.bricks = parsedData;
-			  console.log($scope.bricks.length+" bricks loaded");
+			  // console.log($scope.bricks.length+" bricks loaded");
 
 			
 			//console.log($routeParams);
@@ -69,8 +68,8 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			}
 
 			var cardSelected = $scope.bricks[brickId];
-			// console.log(cardSelected);
-			
+			 // console.log(cardSelected);
+
 			$scope.$apply(function() {
 				$scope.cardSelected = cardSelected;
 				$scope.projectLoaded = true;
@@ -103,6 +102,8 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			return $sce.trustAsHtml(html);
 		}
 
+		
+
 		$scope.getNextId = function(){
 			var thisId = parseInt($routeParams.id);
 			var nextId = thisId+1;
@@ -126,7 +127,9 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 	.controller('id14Controller',  ng(function ($scope, $http, $sce, $location){
 	//get the content from the CMS
 	var bricks = [];
-		client.entries({}, function(err, entries) {
+		client.entries({
+			// 'content_type': 'student_project'
+		}, function(err, entries) {
 		 if (err) { console.log(err); return; }
 		  for(x in entries){
 		  	bricks.push(entries[x].fields);
@@ -153,6 +156,7 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 			
 		// });
 		//======= HELPER FUNCTIONS HERE =============
+
 
 		//isotope layout and shuffle
 		$scope.layout = function(){
@@ -223,7 +227,12 @@ angular.module('id14App', ['templatescache', 'iso.directives', 'ngAnimate', 'ngR
 		})
 
 	//runs the project setup once the code has loaded
-	
+	$scope.orderValue = null;
+	$scope.setOrder = function(order){
+		$scope.orderValue = order;
+		$scope.layout();
+	}
+
 }));
 
 

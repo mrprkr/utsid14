@@ -1,5 +1,5 @@
 <div class="infoContainer">
-  <img style="margin:25px" src="assets/images/global/logo.jpg" alt="ID14 logo"/>
+  <img style="margin:25px" src="assets/images/global/logo.png" alt="ID14 logo"/>
   <p>This year's students have assembled a wide variety of service and product designs; with work ranging from furniture, homewares, lighting, web, and wearables, this exhibition showcases the talent and diversity of the 2014 graduates. </p><br/><p> See the students and their work at the <span id="link" ng-click="showInfo()"> Industrial Design Graduate Show</span>.</p>
 </div>
 
@@ -31,7 +31,7 @@
 
     <!-- PROJECTS -->
     <div isotope-container="isotope-container" class="brickContainer">
-      <div ng-repeat="brick in bricks"  isotope-item="isotope-item item">
+      <div ng-repeat="brick in bricks | orderBy: orderValue" isotope-item="isotope-item item">
         <div ng-include="'cardTemplate.html' "></div>
       </div>
     </div>
@@ -40,6 +40,14 @@
       <a name="sponsors"></a>
       <p>A special thank you to our event sponsors:</p>
       <br/>
+      <a href="http://www.spenceandlyda.com.au" target="_blank"><img ng-src="assets/images/global/sponsor3.png" alt="UTS"/></a>
       <a href="http://uts.edu.au" target="_blank"><img ng-src="assets/images/global/UTS_logo.jpg" alt="UTS"/></a>
+      <a href="http://www.expocentric.com.au" target="_blank"><img ng-src="assets/images/global/sponsor4.jpg" alt="UTS"/></a>
     </div>
   </div>
+
+<footer>
+  <p>Designed &amp; developed by <a href="#" target="_blank">Michael Parker</a></p>
+  <p>&#xA9;2014</p>
+  <br/>
+</footer>
