@@ -593,6 +593,13 @@ iframe {
 	#shuffleOption {
 		visibility: hidden;
 	}
+	
+	.heroPhoto {
+	width: 105%;
+	-webkit-filter: blur(0px);
+	filter: blur(0px);
+	margin-left: 0px;
+}
 }
 @media screen and (max-width: 320px){
 	.card {

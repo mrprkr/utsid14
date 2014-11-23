@@ -23,4 +23,4 @@ $ gulp
 
 #### Known Bugs
 
-Issue with scrolling on project page for iOS devices
+No know issues, Content is pulled in from contentful
